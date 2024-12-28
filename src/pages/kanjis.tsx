@@ -5,7 +5,7 @@ import { Drill } from "./drill";
 
 export default function Kanjis() {
     const kdata = kanjiData as KanjiData
-    const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
+    const [_, setSelectedLevel] = useState<number | null>(null);
     const [kanjiArray, setKanjiArray] = useState<string[]>([]);
     const [showDrill, setShowDrill] = useState<boolean>(false);
 

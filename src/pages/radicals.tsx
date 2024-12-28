@@ -1,12 +1,11 @@
 import { useState } from "react"
-import React from "react"
 import radicalData from '../../data/u-radicals.json'
 import {RadicalData} from '../types'  
 import { Drill } from "./drill";
 
 export default function Radicals() {
     const rdata = radicalData as RadicalData
-    const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
+    const [_, setSelectedLevel] = useState<number | null>(null);
     const [radicalArray, setRadicalArray] = useState<string[]>([]);
     const [showDrill, setShowDrill] = useState<boolean>(false);
 

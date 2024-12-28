@@ -5,7 +5,7 @@ import { Drill } from "./drill";
 
 export default function Vocabs() {
     const vdata = vocabData as VocabData
-    const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
+    const [_, setSelectedLevel] = useState<number | null>(null);
     const [vocabArray, setVocabArray] = useState<string[]>([]);
     const [showDrill, setShowDrill] = useState<boolean>(false);
 
