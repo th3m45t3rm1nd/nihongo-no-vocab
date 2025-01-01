@@ -2,6 +2,9 @@
 import React from "react"
 import { useNavigate } from 'react-router-dom'
 import * as wanakana from 'wanakana'
+import ExplanationVocab from "../components/exVocab"
+import ExplanationKanji from "../components/exKanji"
+import ExplanationRadical from "../components/exRadical"
 
 interface DrillProps {
   questions: string[];
@@ -10,8 +13,15 @@ interface DrillProps {
 }
 
 export function Drill({ questions, type, answerData }: DrillProps) {
+  const [usedQuestions, setUsedQuestions] = React.useState<string[]>([])
+  const [currentQuestion, setCurrentQuestion] = React.useState(() => {
+    const firstQuestion = questions[Math.floor(Math.random() * questions.length)]
+    console.log(questions)
+    setUsedQuestions([firstQuestion])
+    // For RADICAL type, we want to show the character as the question
+    return type === "RADICAL" ? answerData[firstQuestion].character : firstQuestion
+  })
   const [answer, setAnswer] = React.useState('')
-  const [currentQuestion, setCurrentQuestion] = React.useState(questions[Math.floor(Math.random() * questions.length)] || "")
   const [isAnswerSubmitted, setIsAnswerSubmitted] = React.useState(false)
   const [isCorrect, setIsCorrect] = React.useState<boolean | null>(null)
   const [showExplanation, setShowExplanation] = React.useState(false)
@@ -19,17 +29,22 @@ export function Drill({ questions, type, answerData }: DrillProps) {
   const [progress, setProgress] = React.useState(0)
   const navigate = useNavigate()
 
+
+  console.log(currentQuestion)
+  console.log(answerData)
   const correctAnswer = type === "KANJI" 
-    ? wanakana.toHiragana(answerData[currentQuestion].meaning.Primary)
+    ? wanakana.toHiragana(answerData[currentQuestion].reading.kunyomi.meaning)
     : type === "VOCAB" 
     ? wanakana.toHiragana(answerData[currentQuestion].reading.reading)
+    : type === "RADICAL" 
+    ? questions.find(q => answerData[q].character === currentQuestion)?.toLowerCase() // Find the key that matches the character
     : "";
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const hiragana = wanakana.toHiragana(e.target.value)
-    setAnswer(hiragana)
+    type === "RADICAL" 
+    ? setAnswer(e.target.value)
+    : setAnswer(wanakana.toHiragana(e.target.value))
   }
-
   const checkAnswer = () => { 
     if (answer.trim() === '') {
         alert('Please write an answer')
@@ -52,7 +67,9 @@ export function Drill({ questions, type, answerData }: DrillProps) {
         if (progress === questions.length) {
           navigate('/')
         } else {
-          setCurrentQuestion(questions[Math.floor(Math.random() * questions.length)] || "")
+          const nextQ = getNextQuestion()
+          setUsedQuestions(prev => [...prev, nextQ])
+          setCurrentQuestion(type === "RADICAL" ? answerData[nextQ].character : nextQ)
           setAnswer('')
           setIsAnswerSubmitted(false)
           setIsCorrect(null)
@@ -69,11 +86,25 @@ export function Drill({ questions, type, answerData }: DrillProps) {
     setNextQuestion(true)
   }
   
+  const getNextQuestion = (): string => {
+    const availableQuestions = questions.filter(q => !usedQuestions.includes(q))
+    
+    if (availableQuestions.length === 0) {
+      // All questions have been used, reset
+      setUsedQuestions([])
+      return questions[Math.floor(Math.random() * questions.length)]
+    }
+    
+    return availableQuestions[Math.floor(Math.random() * availableQuestions.length)]
+  }
+
   const handleNextQuestion = () => {
     if (progress === questions.length) {
       navigate('/')
     } else {
-      setCurrentQuestion(questions[Math.floor(Math.random() * questions.length)] || "")
+      const nextQ = getNextQuestion()
+      setUsedQuestions(prev => [...prev, nextQ])
+      setCurrentQuestion(type === "RADICAL" ? answerData[nextQ].character : nextQ)
       setAnswer('')
       setIsAnswerSubmitted(false)
       setIsCorrect(null)
@@ -93,7 +124,7 @@ export function Drill({ questions, type, answerData }: DrillProps) {
         <div className="mt-2 mx-4 ">
             <input
                 type="text"
-                className={`text-3xl shadow-md p-2 text-black text-center w-full border-5 focus:outline-none ${isCorrect === true ? 'bg-green-200' : ''}`} 
+                className={`text-3xl shadow-md h-fit p-2 box-sizing:box-border text-black text-center w-full border-5 focus:outline-none ${isCorrect === true ? 'bg-green-200' : ''}`} 
                 value={answer}
                 onChange={handleChange}
                 onKeyDown={handleKeyPress}
@@ -111,20 +142,12 @@ export function Drill({ questions, type, answerData }: DrillProps) {
                 {showExplanation && (
                     <div className="mt-4 text-left p-4">
                         {type === "KANJI" ? (
-                            <>
-
-                            </>
-                        ) : (
-                            <>
-                                <h3 className="text-2xl font-serif">Reading</h3>
-                                <hr/>
-                                <p className="mt-1 tracking-widest">{answerData[currentQuestion].reading.reading}</p>
-                                <p className="mt-1 bg-gray-300 p-4">{answerData[currentQuestion].reading.explanation}</p>
-                                <h3 className="text-2xl font-serif">Meaning</h3>
-                                <hr/>
-                                <p className="mt-1 bg-gray-300 p-4">{answerData[currentQuestion].meaning.explanation}</p>
-                            </>
-                        )}
+                          <ExplanationKanji answerData={answerData} currentQuestion={currentQuestion}/>
+                        ) : type === 'VOCAB' ? (
+                          <ExplanationVocab answerData={answerData} currentQuestion={currentQuestion}/>
+                        ): type === 'RADICAL' ? (
+                          <ExplanationRadical answerData={answerData} currentQuestion={correctAnswer || ''}/> 
+                        ) : null}
                     </div>
                 )}
                 {nextQuestion && (

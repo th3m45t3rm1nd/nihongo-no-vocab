@@ -1,6 +1,7 @@
 {
     "Barb": {
         "id": "R01001",
+        "character": "\u4e85",
         "mnemonic": "This radical is shaped like a barb. Like the kind you'd see on barb wire. Imagine one of these getting stuck to your arm or your clothes. Think about how much it would hurt with that little hook on the end sticking into you. Say out loud, \"Oh dang, I got a barb stuck in me!\"",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -25,6 +26,7 @@
     },
     "Big": {
         "id": "R01002",
+        "character": "\u5927",
         "mnemonic": "This radical looks just like a stick figure\u2014more specifically, a really big guy with his arms stretched out nice and big. When you see this radical, just think big, because this guy is really BIG!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -153,6 +155,7 @@
     },
     "Construction": {
         "id": "R01003",
+        "character": "\u5de5",
         "mnemonic": "You know those big steel girders that are used for the frame of big buildings? This is like the end of one of those, and has a very distinct shape, just like this radical. These girders are used in construction, which is why this radical means construction. Funny thing is, you use these girders to put together buildings just like you're going to use this radical to put together kanji!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -229,6 +232,7 @@
     },
     "Cross": {
         "id": "R01004",
+        "character": "\u5341",
         "mnemonic": "This radical looks like a cross. I mean, just look at it. Two bars going through each other = a cross!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -425,6 +429,7 @@
     },
     "Drop": {
         "id": "R01005",
+        "character": "\u4e36",
         "mnemonic": "This little radical is a drop of water or some other liquid. Notice how it's only one drop? Sometimes radicals or kanji will have more than one drop, so it's important that you know how to tell them apart.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -609,6 +614,7 @@
     },
     "Enter": {
         "id": "R01006",
+        "character": "\u5165",
         "mnemonic": "Watch out! This isn't the person radical, it's something else. What's the difference? The right side is longer than the left side. And on computers, it usually has that extra part sticking out of the top. It kind of looks like a flap opening to a teepee. And what do you do with an opening? You enter it! That's why this radical is enter.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -629,6 +635,7 @@
     },
     "Fins": {
         "id": "R01007",
+        "character": "\u30cf",
         "mnemonic": "Picture a fish. Now picture the fish a little worse, like a child's drawing of the fish. Now erase the fish's body and... you're left with two fins! Do you see these two fins? Yeah, you see them.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -725,6 +732,7 @@
     },
     "Ground": {
         "id": "R01008",
+        "character": "\u4e00",
         "mnemonic": "This radical consists of a single, horizontal stroke. What's the biggest, single, horizontal stroke? That's the ground. Look at the ground, look at this radical, now look at the ground again. Kind of the same, right?",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1013,6 +1021,7 @@
     },
     "Gun": {
         "id": "R01009",
+        "character": "\ud840\udc89",
         "mnemonic": "This looks a lot like a long gun pointing to the right. You have a shoulder rest on the left, and the barrel on the right. Imagine it hanging in a case on the wall in a museum.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1101,6 +1110,7 @@
     },
     "Lid": {
         "id": "R01010",
+        "character": "\u4ea0",
         "mnemonic": "This looks like something you'd put on a kettle or a pot, right? It even has a little handle to make sure you don't burn yourself. This is some kind of lid.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1205,6 +1215,7 @@
     },
     "Mountain": {
         "id": "R01011",
+        "character": "\u5c71",
         "mnemonic": "This is a mountain. You'll have to add the lines that make up the top of the mountain if you want it more \"mountain-like.\" Also something that might help: sometimes mountains have a couple of smaller peaks coming out the side of the main peak too. Connect the dots and create the mountain in your mind.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1329,6 +1340,7 @@
     },
     "Mouth": {
         "id": "R01012",
+        "character": "\u53e3",
         "mnemonic": "A big, gaping, square hole represents someone opening their giant mouth to tell you something stupid.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1849,6 +1861,7 @@
     },
     "Nine": {
         "id": "R01013",
+        "character": "\u4e5d",
         "mnemonic": "If you look at this radical in just the right way, you'll notice that it kind of looks like the letters \"n\" and \"i\" (the \"i\" comes from the little flippy-up stroke on the right side). What do the letters \"n\" and \"i\" start spelling? Why, the word nine.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1905,6 +1918,7 @@
     },
     "Person": {
         "id": "R01014",
+        "character": "\u4eba",
         "mnemonic": "If you were to draw a person with just strokes like you see in kanji, you'd create a stick figure, maybe something like this: \u5927. But this is just a person, not someone holding out their arms to show how big they are. So their arms are down, which makes them look like a torso with a pair of legs. Maybe they're walking too, which is why their legs are spread out like that. You can see the person now, can't you?",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -1965,6 +1979,7 @@
     },
     "Power": {
         "id": "R01015",
+        "character": "\u529b",
         "mnemonic": "Imagine a guy flexing his arm downward to show off his steroid-pumped arm. It's huge. It's so full of power. RARRRWWWRRR!!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2093,6 +2108,7 @@
     },
     "Prison": {
         "id": "R01016",
+        "character": "\u52f9",
         "mnemonic": "This looks like an enclosure of sorts - that's why it's a prison. It wraps itself around things and locks them in there. Prisons are pretty scary, even before you imagine one slowly floating down from the sky to trap you.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2209,6 +2225,7 @@
     },
     "River": {
         "id": "R01017",
+        "character": "\u5ddd",
         "mnemonic": "This radical already looks like a river. See the banks of the river on the side and the flow of the river in the middle? There's even a slight turn in the river too. So when you see this radical, you should think \"river.\"",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2249,6 +2266,7 @@
     },
     "Seven": {
         "id": "R01018",
+        "character": "\u4e03",
         "mnemonic": "What does this radical look like? Hmm, nothing much. What about if you turn it upside down? Now does it look like a 7 with a line through it? Close enough to help you to remember that this radical is seven, right? Just remember, when you see this radical, flip it over and see what number it looks like. If you can do that, you can remember the meaning!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2281,6 +2299,7 @@
     },
     "Slide": {
         "id": "R01019",
+        "character": "\u4e3f",
         "mnemonic": "Close your eyes and imagine you're a kid again. Now open them and... look! It's a slide! Imagine little you sliding down this slide over and over, having a great time. Imagination + emotion makes for good memorization!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2421,6 +2440,7 @@
     },
     "Stick": {
         "id": "R01020",
+        "character": "\u4e28",
         "mnemonic": "This is a stick, sticking out of the ground. It even looks like a stick.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2485,6 +2505,7 @@
     },
     "Sun": {
         "id": "R01021",
+        "character": "\u65e5",
         "mnemonic": "Since there are no circles in Japanese characters, sometimes rectangles or squares have to make do. In this case, this big rectangle is the sun. The middle line going through the center horizontally is the equator. Or maybe it's a cloud, moving across the sun. Picture it, but don't actually look at the sun and burn your eyes!",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2837,6 +2858,7 @@
     },
     "Toe": {
         "id": "R01022",
+        "character": "\u30c8",
         "mnemonic": "This radical looks just like the katakana character \u30c8 (to), which sounds like the word toe. So when you see \u30c8, think toe.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -2885,6 +2907,7 @@
     },
     "Tree": {
         "id": "R01023",
+        "character": "\u6728",
         "mnemonic": "Do you see the tree in here? It has branches, and then it has the foliage coming down diagonally from it, spreading out like a tree would. That's why this radical is a tree.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -3353,6 +3376,7 @@
     },
     "Two": {
         "id": "R01024",
+        "character": "\u4e8c",
         "mnemonic": "One line plus another line equals two lines. This radical represents the number two. Pretty simple, right? Can you guess what three looks like? I bet you can...",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -3401,6 +3425,7 @@
     },
     "Woman": {
         "id": "R01025",
+        "character": "\u5973",
         "mnemonic": "This radical looks like a wide person made up of two stacked Xs. Women generally have two XXs for chromosomes, and back in the day they were praised for their wide, child-bearing hips. We may not think of women this way anymore, but way back when Japanese was made, this made them think of a woman.",
         "difficulty": "pleasant\n",
         "level": "level-1\n",
@@ -3585,6 +3610,7 @@
     },
     "Book": {
         "id": "R02001",
+        "character": "\u672c",
         "mnemonic": "There's a cut right at the base of this tree. Why would someone cut down a tree? To make a book out of it! Imagine living in the old days when you'd have to cut down a tree yourself to write or read a book.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -3605,6 +3631,7 @@
     },
     "Bow": {
         "id": "R02002",
+        "character": "\u5f13",
         "mnemonic": "This radical looks like a fancy composite bow people would use to shoot at targets and definitely not any normal living animals. See how the middle part is being pulled back? Imagine holding this bow and firing it at a target shaped like a giant alligator-crab monster.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -3665,6 +3692,7 @@
     },
     "Child": {
         "id": "R02003",
+        "character": "\u5b50",
         "mnemonic": "This radical is made up of two barbs and one ground radical. If there are barbs on the ground, whom (especially) do you want to avoid that area? You want your child to avoid it, since children are so careless and often don't wear shoes. Imagine how bad you'd feel if you let a child walk around on top of these barbs! Pretty bad, I imagine.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -3737,6 +3765,7 @@
     },
     "Cow": {
         "id": "R02004",
+        "character": "\u725b",
         "mnemonic": "There's a cross and a gun, with the gun going through the cross. You're using the cross to stabilize your gun, because you need to shoot a cow for dinner. You bring your cross because you need to bless the cow once you've killed it (and it's also a good stand for your gun). Poor cow.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -3793,6 +3822,7 @@
     },
     "Dirt": {
         "id": "R02005",
+        "character": "\u571f",
         "mnemonic": "There's a cross drawn on the ground, making this dirt. You can draw anything in the dirt, it just happens to be a cross this time. Imagine drawing a cross in the dirt with your finger. Feel the dirt get stuck under your fingernail and never forget.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4073,6 +4103,7 @@
     },
     "Dog": {
         "id": "R02006",
+        "character": "\u72ac",
         "mnemonic": "Remember the big guy that helped you remember the big radical? Now the big guy has something on his shoulder... what is that? You look and see that he has a dog up there, perched as if it were a parrot or a cat or something. Dogs aren't supposed to be up on people's shoulders like that, but for him? It works!",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4121,6 +4152,7 @@
     },
     "Evening": {
         "id": "R02007",
+        "character": "\u5915",
         "mnemonic": "Do you see the prison and drop radicals making up this radical? This prison is holding onto a drop because it's the evening. Evening air does a better job of holding on to drops of liquid like this, which is why everything is covered in dew in the morning.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4165,6 +4197,7 @@
     },
     "Eye": {
         "id": "R02008",
+        "character": "\u76ee",
         "mnemonic": "See the iris in the middle of the eyeball? Remember that there are no round things in kanji, so square things take their place. That makes this a pretty realistic, square eye. You just have to squint with your real eyes a bit.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4277,6 +4310,7 @@
     },
     "Fire": {
         "id": "R02009",
+        "character": "\u706b",
         "mnemonic": "See the person radical here? It's got things coming off of it... what are those things\u2014OH MY GOD IT'S FIRE!!! Help, help! Put the fire out!",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4365,6 +4399,7 @@
     },
     "Five": {
         "id": "R02010",
+        "character": "\u4e94",
         "mnemonic": "If you use your imagination, this radical actually looks like the number \"5.\" You have to remove the vertical line in the bottom left, but once you do that, you have an easy way to remember that this radical means five.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4389,6 +4424,7 @@
     },
     "Flag": {
         "id": "R02011",
+        "character": "\u5c38",
         "mnemonic": "See the flag in this radical? There's a pole with a flag on the end of it, blowing in the wind. Basically, this radical looks just like a flag.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4509,6 +4545,7 @@
     },
     "Hair": {
         "id": "R02012",
+        "character": "\u5f61",
         "mnemonic": "These three streaks flowing off to the side are three strands of hair. Pretty easy to see and remember, right?",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4581,6 +4618,7 @@
     },
     "Hand": {
         "id": "R02013",
+        "character": "\u624b",
         "mnemonic": "This one's a little tough to picture, but I believe in you. The barb in the middle is the wrist/arm. Then, there are four regular fingers coming off of it and then one big thumb (the slide radical at the top). So you have four fingers, a thumb, and a wrist. This is what makes up your crazy looking hand.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4617,6 +4655,7 @@
     },
     "Head": {
         "id": "R02014",
+        "character": "\u5182",
         "mnemonic": "This is the kind of head a child might draw\u2014can you imagine it with eyes, nose, mouth, and ears too? Whoever's head this is, it's really square. Maybe it's the head of a famous spongy cartoon character. Hmm.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4661,6 +4700,7 @@
     },
     "Heaven": {
         "id": "R02015",
+        "character": "\u5929",
         "mnemonic": "There is a two radical and a person radical. The first level of a person's life is on earth. The second level (this level, which is why there's a two radical here) is in heaven. So when you see a person at level 2, you know they're in heaven.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4713,6 +4753,7 @@
     },
     "King": {
         "id": "R02016",
+        "character": "\u738b",
         "mnemonic": "This radical is not something anyone can have. Only a king can wear this crown upon his head. This radical is the sign of kings. Imagine your favorite king wearing this on their head. It's a pretty distinctive shape \u2014 I think you can do it.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4857,6 +4898,7 @@
     },
     "Leaf": {
         "id": "R02017",
+        "character": "\u4e06",
         "mnemonic": "There's a leaf on top and a stem going down out of it, making it the leaf radical. It looks kind of like a lilypad, sitting on top of the water with its stem going down to the bottom where the dirt is.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4881,6 +4923,7 @@
     },
     "Legs": {
         "id": "R02018",
+        "character": "\u513f",
         "mnemonic": "This radical already looks like a pair of legs. There's even feet on these legs (unlike the fins radical, which you learned earlier). That's how you know these are legs and not fins (or something else).",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4949,6 +4992,7 @@
     },
     "Middle": {
         "id": "R02019",
+        "character": "\u4e2d",
         "mnemonic": "There's a stick going right through the middle of someone's mouth! Imagine that mouth being yours. Measure the placement of the stick. Perfectly aligned, right in the middle. That's amazing, though to be honest, you probably have bigger problems than measuring the location of this stick in your mouth.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -4977,6 +5021,7 @@
     },
     "Moon": {
         "id": "R02020",
+        "character": "\u6708",
         "mnemonic": "The moon is actually made of the sun, but it has little legs coming off of it leaning towards the left. Why? Because the moon is always running away from the sun as fast as it can. It doesn't want to get caught on fire, so it has to run to stay ahead!",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5249,6 +5294,7 @@
     },
     "Narwhal": {
         "id": "R02021",
+        "character": "\u30ca",
         "mnemonic": "This radical looks like the katakana character \u30ca (na), which we're going to say stands for narwhal. Plus, this radical kind of looks like a narwhal, right? The body and head on the bottom, and the single majestic narwhal horn coming out the top, shooting up out of the water and into the air. Oh, and don't confuse this radical with treasure. The sideways line for narwhal (\u30ca) is horizontal, the sideways line for treasure is at more of a downward angle (\u30e1), like an \"X.\"",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5305,6 +5351,7 @@
     },
     "Private": {
         "id": "R02022",
+        "character": "\u30e0",
         "mnemonic": "This is a little triangle that's almost completely closed off. When you want to be alone, you hide in a place where you can be in private. That's why this is the private radical. You're closing yourself off to the rest of the world, with just a little peephole.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5393,6 +5440,7 @@
     },
     "Rice Paddy": {
         "id": "R02023",
+        "character": "\u7530",
         "mnemonic": "Rice paddies are made up of fields with irrigation lines going between them. See the four rice paddies with water flowing between and around them? That's why this radical is rice paddy.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5561,6 +5609,7 @@
     },
     "Small": {
         "id": "R02024",
+        "character": "\u5c0f",
         "mnemonic": "You have fins and you have a barb. A fish that you can stick an entire barb through like this would have to be really small, since it's sticking through the whole fish body (which you can imagine by basing the body off the size of the fins compared to the already small barb.)",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5633,6 +5682,7 @@
     },
     "Stand": {
         "id": "R02025",
+        "character": "\u7acb",
         "mnemonic": "Two sticks are propping up a lid. By doing this, they're making it stand up.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5761,6 +5811,7 @@
     },
     "Stop": {
         "id": "R02026",
+        "character": "\u6b62",
         "mnemonic": "There's a giant toe and a stick in the ground in front of you. You're driving your car toward them, but you don't see them until your lights hit them. What would these things cause you to do? Most likely stop your car right away.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5829,6 +5880,7 @@
     },
     "Street": {
         "id": "R02027",
+        "character": "\u4e01",
         "mnemonic": "There's a barb under the ground, holding it in place. This is actually a street. All streets have to be secured to the ground with barbs so that they don't slide all over the place. If you tried to pick up the asphalt streets we have today, you'd still find barbs under the ground to keep them there. The more you know! \u2b50",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5885,6 +5937,7 @@
     },
     "Sword": {
         "id": "R02028",
+        "character": "\u5200",
         "mnemonic": "If you look at this radical, it looks like the bottom part of a sword\u2014the handle, more specifically. This radical also looks a lot like the power radical (\u529b), so don't get them confused. It's missing the little nubbin at the top, because 90% of the power comes from the sword to cut your enemies down (which is why the sword radical is 90% of the power radical).",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5977,6 +6030,7 @@
     },
     "Thousand": {
         "id": "R02029",
+        "character": "\u5343",
         "mnemonic": "You're in a room, surrounded by slides. Down off the slides tumble cross after cross after cross. They're bouncing in and hitting you in the face, the arm, everywhere... With each cross comes a voice yelling, \"ONE! TWO! THREE HUNDRED! FIVE HUNDRED!\" and so on. You are worried it will never end, because you're starting to drown in the crosses. Then the voice yells out ONE THOUSAND and they stop. Still, you can't move. Think about all the numbers being called out, and keep wondering if it'll be the last one. Feel the relief you'd feel if it stops on a thousand, because you won't be buried anymore. The thousand crosses are covering you entirely, over your head, but because they're crosses you can still breathe.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -5993,6 +6047,7 @@
     },
     "Treasure": {
         "id": "R02030",
+        "character": "\u30e1",
         "mnemonic": "This radical is treasure because \"X marks the spot,\" as they say. Doesn't it look like the X on a pirate treasure map? You want to go find that treasure now, right?!",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -6037,6 +6092,7 @@
     },
     "Water": {
         "id": "R02031",
+        "character": "\u6c34",
         "mnemonic": "There are drops of liquid coming out of both sides of this barb. You can imagine the barb being stuck into the ground then pulled out. When it is, water comes gushing out of both sides! That's why this radical is water.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -6121,6 +6177,7 @@
     },
     "White": {
         "id": "R02032",
+        "character": "\u767d",
         "mnemonic": "Add a drop of the sun to something and it will turn it white. The sun is really strong, so even a single drop will burn anything white. Why do you think so many beaches are white? Even the drops of sunblock you use to stop the sun's rays is white. So when you think of sun drops, think white.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -6197,6 +6254,7 @@
     },
     "Writing": {
         "id": "R02033",
+        "character": "\u6587",
         "mnemonic": "This looks like a stool with a lid on it, but it's actually a writing desk. Do you see it? You can even see the pen sticking up in the middle. Think of all the beautiful writing that's been produced here. Letters, novels, essays \u2014 any kind of writing you can think of.",
         "difficulty": "pleasant\n",
         "level": "level-2\n",
@@ -6225,6 +6283,7 @@
     },
     "Arrow": {
         "id": "R03001",
+        "character": "\u77e2",
         "mnemonic": "You have a really big gun. Why? Because only big guns will be able to shoot arrows! Bullets are pretty small, so the guns that shoot them can be any size. But you need a big gun if you want to shove an arrow in it and then shoot it at your enemies.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6301,6 +6360,7 @@
     },
     "Canopy": {
         "id": "R03002",
+        "character": "\u5e7f",
         "mnemonic": "This is a canopy. See the cloth draping down and the little point at the middle holding it up? You could sit under here and enjoy a bright, summer day without getting any sun!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6421,6 +6481,7 @@
     },
     "Direction": {
         "id": "R03003",
+        "character": "\u65b9",
         "mnemonic": "This radical looks like a dude running off to the right. He's heading in a very distinct direction. Which direction was it again?",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6513,6 +6574,7 @@
     },
     "Door": {
         "id": "R03004",
+        "character": "\u6238",
         "mnemonic": "Where does a flag usually go? It goes over a door. I know the \u4e00 radical usually means ground, but in this case we're going to say the flag is in the doorway (where the \u4e00 is the top of the door).",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6565,6 +6627,7 @@
     },
     "Dry": {
         "id": "R03005",
+        "character": "\u5e72",
         "mnemonic": "You have two on a stick. Two what? Well, you can't tell because they're too dry. Someone put two somethings on this stick to dry, but they seem to have left them out for way too long. Was it meat? Fish? Cucumbers? You have no clue, but they're two very dry somethings, that's for sure.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6645,6 +6708,7 @@
     },
     "Father": {
         "id": "R03006",
+        "character": "\u7236",
         "mnemonic": "There are fins covering the treasure making up this radical. You pull away the fins and start digging where the X is (because \"X\" marks where the treasure is, right?). When you dig down, instead of finding treasure, you find your father. The shock of this in your imagination should help you to remember the meaning of this radical!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -6665,6 +6729,7 @@
     },
     "Fingers": {
         "id": "R03007",
+        "character": "\u624c",
         "mnemonic": "This looks like the hand (\u624b) radical, but smaller. That's because it's just the fingers. You don't always have room for a whole hand to be in a kanji, but there's always space for a few fingers.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7013,6 +7078,7 @@
     },
     "Fur": {
         "id": "R03008",
+        "character": "\u6bdb",
         "mnemonic": "Do you remember the hair radical? This is like that, except now the hair is attached to a tail. Animals don't usually have hair, though. Instead, they have fur.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7029,6 +7095,7 @@
     },
     "Hat": {
         "id": "R03009",
+        "character": "\ud840\udda2",
         "mnemonic": "Do you know those rice paddy hats? The ones shaped just like this radical? That's why this radical is a hat.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7097,6 +7164,7 @@
     },
     "Heart": {
         "id": "R03010",
+        "character": "\u5fc3",
         "mnemonic": "Take a good look at this one. It kind of looks like a heart (not the stereotypical Valentine\u2019s Day heart, though). Think of a real heart. Basically, there\u2019s a lump (the heart) in the middle, and three lines which make up the arteries that go in and out of the heart to keep you alive. This radical shows up a lot, so it shouldn\u2019t be too hard to learn it as you go along. Remember, lump (heart) plus arteries equals a heart\u2026 like, a real heart, not the fake, pretty kind.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7313,6 +7381,7 @@
     },
     "Ice": {
         "id": "R03011",
+        "character": "\u51ab",
         "mnemonic": "Remember the radical for drop (of liquid)? This is two drops instead of one. When you see two drops, you should think, \"the next stage of water.\" What is the next stage? Why, that is ice.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7381,6 +7450,7 @@
     },
     "Life": {
         "id": "R03012",
+        "character": "\u751f",
         "mnemonic": "This radical consists of a cow radical with the ground radical below it. If you have cows on solid ground, then you really do have a good life, I think. Sometimes this radical will show up without the slide part on the side too, though we'll treat them both as \"life.\"",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7469,6 +7539,7 @@
     },
     "Now": {
         "id": "R03013",
+        "character": "\u4eca",
         "mnemonic": "This is a hat on top of the katakana for \"ra.\" Think of Ra, the Egyptian god. When is Ra wearing a hat? Right now! It's always now, because he never takes it off. No really, look it up, it's true.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7501,6 +7572,7 @@
     },
     "Old": {
         "id": "R03014",
+        "character": "\u53e4",
         "mnemonic": "You have a cross on a mouth\u2014that's a pretty religious mouth. Who speaks the most about religion? Old people, mostly. Also, think about the teachings of religion itself - also pretty old, age-wise. No matter how you look at it, everything about this radical is kind of \"old.\"",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7553,6 +7625,7 @@
     },
     "Poop": {
         "id": "R03015",
+        "character": "\u5e7a",
         "mnemonic": "There's something sticking out of you while you're in private. It's poop! You can't just poop in public, that's illegal and gross in this day and age. So the next time something starts to come out of you when you're in private, think, \"Ah yes, it's poop.\"",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7613,6 +7686,7 @@
     },
     "Roof": {
         "id": "R03016",
+        "character": "\u5b80",
         "mnemonic": "This is a roof \u30fc a flat roof with a little chimney sticking out. How cute!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7837,6 +7911,7 @@
     },
     "Spoon": {
         "id": "R03017",
+        "character": "\u5315",
         "mnemonic": "This radical looks like a spoon! Well, a spoon that's been bent a lot by an angry person or a psychic. Go grab a spoon and try to bend it into this shape. Then hold on to it so you'll never forget that this is the spoon radical!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -7933,6 +8008,7 @@
     },
     "Stone": {
         "id": "R03018",
+        "character": "\u77f3",
         "mnemonic": "There's a leaf growing out of a square thing (which is normally a mouth, but not this time). The leaf is growing out of a stone. I mean, obviously, because leaves don't grow out of mouths. I hope. Anyway, picture a stone in the middle of nature with a leaf growing out of it or just behind it and you'll never forget this radical!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8009,6 +8085,7 @@
     },
     "Stool": {
         "id": "R03019",
+        "character": "\u53c8",
         "mnemonic": "This looks just like a fold-out stool, amiright?",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8181,6 +8258,7 @@
     },
     "Task": {
         "id": "R03020",
+        "character": "\u7528",
         "mnemonic": "This looks a bit like a calendar with spaces for you to write in your tasks for the day. See those blank sections? Make sure you write down your daily tasks, so you don't forget to do something important!",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8221,6 +8299,7 @@
     },
     "Towel": {
         "id": "R03021",
+        "character": "\u5dfe",
         "mnemonic": "There's something draped over that stick. It's a towel!! Imagine taking a wet towel and hanging it over a railing or a stick so it won't get all musty and gross. It would look just like this.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8337,6 +8416,7 @@
     },
     "Triceratops": {
         "id": "R03022",
+        "character": "\u2e8c",
         "mnemonic": "The three horns represent the triceratops, one of the most awesome dinosaurs ever.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8377,6 +8457,7 @@
     },
     "Window": {
         "id": "R03023",
+        "character": "\u6bcb",
         "mnemonic": "See the criss-cross in the pseudo-square shape? That's the frames of a big window you can look out of. It's not perfectly shaped like a rice field, it's more artistic. That's why this is a window and \u7530 is not.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8413,6 +8494,7 @@
     },
     "Winter": {
         "id": "R03024",
+        "character": "\u5902",
         "mnemonic": "This radical looks like the evening radical but has an extra long stroke. That's because evenings are long in the winter. It gets dark super early.",
         "difficulty": "pleasant\n",
         "level": "level-3\n",
@@ -8637,6 +8719,7 @@
     },
     "Alligator": {
         "id": "R04001",
+        "character": "\u4e5f",
         "mnemonic": "See the mouth and teeth of this alligator, which is facing to the right? You wouldn't want to get your hand stuck in there, that's for sure.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8665,6 +8748,7 @@
     },
     "Bamboo": {
         "id": "R04002",
+        "character": "\u7af9",
         "mnemonic": "See how tall the stalks are with little bushy things at the top? It kind of looks like bamboo, if you use your imagination.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8765,6 +8849,7 @@
     },
     "Bed": {
         "id": "R04003",
+        "character": "\u5df4",
         "mnemonic": "You'll have to complete the line on the right side in your mind, but see the rectangle bed and the pillows? This is totally a bed. That missing line is where you pulled back the sheets when you got up this morning.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8781,6 +8866,7 @@
     },
     "Beggar": {
         "id": "R04004",
+        "character": "https://files.wanikani.com/8v0hjy2gh2dnmh1cgbcg8cedpd58",
         "mnemonic": "Doesn't this look like someone on their knees, holding their hands out (clasped) and begging for something (money, their life, etc.)? That's why this radical is known as the beggar.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8805,6 +8891,7 @@
     },
     "Branch": {
         "id": "R04005",
+        "character": "\u652f",
         "mnemonic": "There is a cross growing out of this stool. It's branching off of it, if you will. The tree that this stool was made of is coming back to life in the form of a branch.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8845,6 +8932,7 @@
     },
     "Car": {
         "id": "R04006",
+        "character": "\u8eca",
         "mnemonic": "Doesn't this look like a top-down view of the frame of a car? There are the rods that make up the base of the car and things for the wheels to go on. That's why this radical is the car radical.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -8981,6 +9069,7 @@
     },
     "Center": {
         "id": "R04007",
+        "character": "\u592e",
         "mnemonic": "If someone has a big head you have to try to focus on the center of it when you talk to them. You don't want to get caught with your eyes wandering all over their big head. Stare right at the center!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9005,6 +9094,7 @@
     },
     "Ceremony": {
         "id": "R04008",
+        "character": "\u5f0b",
         "mnemonic": "This radical looks like a person with a long dress or train running behind them. That's because it's a bride or groom going to their wedding ceremony! You usually have to wear a long dress or a cape if you're at a ceremony. So when you see this radical, think of all the different ceremonies you might have to go to in your life and what you'll need to wear.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9029,6 +9119,7 @@
     },
     "Cliff": {
         "id": "R04009",
+        "character": "\u5382",
         "mnemonic": "See the cliff? It's facing towards the west. What ocean is to your west? That's the direction this cliff is facing.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9133,6 +9224,7 @@
     },
     "Ear": {
         "id": "R04010",
+        "character": "\u8033",
         "mnemonic": "This radical is a bit more elaborate than the eye, though similar. In fact, if you go blind, your ears become one of your new senses of sight, which is why this is like another, somewhat modified, eye. You'll even notice little lines sticking out of the eye. That's because ears stick out more than eyes (\u76ee), which is why this radical is the ear radical.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9189,6 +9281,7 @@
     },
     "Energy": {
         "id": "R04011",
+        "character": "\u6c14",
         "mnemonic": "This radical is shaped kind of like a dam. See the wall and the water pushing over the top? If this radical is a dam, then it must create a ton of energy as well!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9205,6 +9298,7 @@
     },
     "Flowers": {
         "id": "R04012",
+        "character": "\u8279",
         "mnemonic": "See the little things sticking out of the ground? Those little things are pretty little flowers. You know they're flowers and not, say, grass, because they're spaced out. You'll learn grass later, and it will be less spaced out, but somewhat similar to this, so keep that in mind!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9477,6 +9571,7 @@
     },
     "Foot": {
         "id": "R04013",
+        "character": "\u8db3",
         "mnemonic": "Do you see the dude doing a flying dragon kick to the right? What does he hit the target with? Obviously it's his foot.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9537,6 +9632,7 @@
     },
     "Forehead": {
         "id": "R04014",
+        "character": "\u5196",
         "mnemonic": "Sure, this forehead is a bit square, but that's because it's Frankenstein's Monster's forehead. Also, did you notice that this is just the top part of the head (\u5182) radical? This is just the forehead part of that!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9681,6 +9777,7 @@
     },
     "Hole": {
         "id": "R04015",
+        "character": "\u7a74",
         "mnemonic": "You have a roof on top of what looks like a volcano. What is the roof covering on the top of the volcano? Why, it's definitely covering the hole at the top. I guess someone thought if they built a roof on the volcano hole, none of the lava could come out.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9725,6 +9822,7 @@
     },
     "Horns": {
         "id": "R04016",
+        "character": "\u4e37",
         "mnemonic": "Can you see the horns? You could put these horns on anything. Donkeys, people, monkeys, and so on. That's exactly what we'll be doing when we learn kanji that have horns too.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9849,6 +9947,7 @@
     },
     "Insect": {
         "id": "R04017",
+        "character": "\u866b",
         "mnemonic": "There is something private in your mouth. You're keeping it private because you don't want other people to judge you. Why? Because it's an insect. You like to eat insects, but society seems to think it's wrong. Don't worry, friend. Someday the rest of the world will embrace eating insects like you have.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -9929,6 +10028,7 @@
     },
     "Leader": {
         "id": "R04018",
+        "character": "\uff72",
         "mnemonic": "This radical technically means person (like \u4eba), but we're going to shift the meaning a little bit. It's kind of like the person radical, but it's taller and skinnier, standing above the rest of those peons. That's why this is a leader, not a regular old person.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10313,6 +10413,7 @@
     },
     "Loiter": {
         "id": "R04019",
+        "character": "\u5f73",
         "mnemonic": "The leader (\uff72) radical has a little something extra on top of him, holding him down, holding him back. It's causing him to wait... it's causing him to loiter.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10413,6 +10514,7 @@
     },
     "Man": {
         "id": "R04020",
+        "character": "\u7537",
         "mnemonic": "Rice paddy power comes from a man. One man, in fact. He's running on a big wheel next to the rice paddy and providing all of the power for the rice to grow and be harvested.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10429,6 +10531,7 @@
     },
     "Master": {
         "id": "R04021",
+        "character": "\u4e3b",
         "mnemonic": "This king has a drop of water floating above his head. That's because he's not just a king, he's the master of water. Master of elements. Master of ALL THINGS!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10461,6 +10564,7 @@
     },
     "Measurement": {
         "id": "R04022",
+        "character": "\u5bf8",
         "mnemonic": "Have you ever used one of those math compasses? This looks just like one of those because this is the measurement radical. Compasses are used to measure things, just like this.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10573,6 +10677,7 @@
     },
     "Not": {
         "id": "R04023",
+        "character": "\u4e0d",
         "mnemonic": "If you see this radical in a kanji, you'll want to think of the opposite of whatever other radicals there are. It looks a lot like \"below,\" but guess what? It's not the below radical. It's just not.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10593,6 +10698,7 @@
     },
     "Origin": {
         "id": "R04024",
+        "character": "\u5143",
         "mnemonic": "You have two legs making up this radical. Between two legs is where you came from, no matter how you look at it. These two legs are your origin.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10621,6 +10727,7 @@
     },
     "Pi": {
         "id": "R04025",
+        "character": "\u5140",
         "mnemonic": "Obviously, this looks just like the good ol' 3.14 something-something all people are supposed to learn about. It's the math symbol that has to do with circles... pi!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10637,6 +10744,7 @@
     },
     "Plate": {
         "id": "R04026",
+        "character": "\u76bf",
         "mnemonic": "This is a few plates drying on a rack. They're stacked together in a line. Imagine reaching out and grabbing one of those plates for yourself.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10689,6 +10797,7 @@
     },
     "Red": {
         "id": "R04027",
+        "character": "\u8d64",
         "mnemonic": "There are some legs and fins under the dirt. Imagine yourself looking at all of these severed limbs... there's blood everywhere. No matter how deep you dig, everything is stained red.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10705,6 +10814,7 @@
     },
     "Rice": {
         "id": "R04028",
+        "character": "\u7c73",
         "mnemonic": "Not to be confused with a rice paddy (\u7530). This is just raw rice, like the grain that grows out of the ground when rice is raw and fresh. When rice is particularly ripe, it'll kind of look like this at the top of the stalks. See the long leaves with the little rice tufts at the top? That's why this radical is \"rice.\"",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10805,6 +10915,7 @@
     },
     "Samurai": {
         "id": "R04029",
+        "character": "\u58eb",
         "mnemonic": "The samurai radical looks a lot like the dirt radical. The difference is in the top horizontal line. For samurai, the top is longer because he's holding swords. Dirt can't really hold anything because its arms are too short. So when you see this radical, think: long arms for some long swords. That's a samurai!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10865,6 +10976,7 @@
     },
     "See": {
         "id": "R04030",
+        "character": "\u898b",
         "mnemonic": "There's an eyeball on top of some legs. When your eyes get taken places (on legs, in this case), your eyes are seeing those things. That's why this radical means see.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -10917,6 +11029,7 @@
     },
     "Shellfish": {
         "id": "R04031",
+        "character": "\u8c9d",
         "mnemonic": "There's a giant eye on top of some fins. Imagine this giant eye to be on top of a clam or a mussel. It has little fins, which it runs around on, escaping from your every attempt to capture it. That's why this is the shellfish radical.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11109,6 +11222,7 @@
     },
     "Spikes": {
         "id": "R04032",
+        "character": "\u4e1a",
         "mnemonic": "On the ground there are a bunch of spikes coming out. You wouldn't want to step on those now, would you?",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11153,6 +11267,7 @@
     },
     "Spirit": {
         "id": "R04033",
+        "character": "\u30cd",
         "mnemonic": "This looks just like the katakana character for ne. Ne for necromancer! That makes this a spirit, brought back from the grave. OooooOOoooOoo!",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11241,6 +11356,7 @@
     },
     "Thread": {
         "id": "R04034",
+        "character": "\u7cf8",
         "mnemonic": "There is something small in some poop. You lean in, carefully pull it out, and realize it's a thread. Why is there some thread in this small poop? Because it's cat poop. And cats love to eat thread when you aren't looking. And floss and hoodie strings and mouse tails. But this poop just has thread in it.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11509,6 +11625,7 @@
     },
     "Umbrella": {
         "id": "R04035",
+        "character": "\u4e5a",
         "mnemonic": "Do you know how the bottom of an umbrella is shaped? It has a hook that curls around for the handle. So when you see this radical, you should think of the bottom of an umbrella, which will help you remember that it means umbrella.",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11545,6 +11662,7 @@
     },
     "World": {
         "id": "R04036",
+        "character": "\u4e16",
         "mnemonic": "There are no circles in kanji, remember? So imagine that these angles are really circles. A little circle in a big circle, with a line running through them. Why, it's the world. The world looks just like this, with continents on the globe and a line is the equator. Can you see it?",
         "difficulty": "pleasant\n",
         "level": "level-4\n",
@@ -11573,6 +11691,7 @@
     },
     "Axe": {
         "id": "R05001",
+        "character": "\u65a4",
         "mnemonic": "This is a strange looking axe, I know. But think of it this way: the letter \"T\" is in the cliff. What is the \"T\"? Of course it has to be Mr. T, who's super awesome. Think of Mr. T wielding a terrifying axe, running after you screaming, \"I pity the fool!\" while trying to chop you down. That makes for a pretty terrifying axe.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11665,6 +11784,7 @@
     },
     "Blue": {
         "id": "R05002",
+        "character": "\u9752",
         "mnemonic": "You have life on top of the moon (ignore that life is missing its little slide on the left side). What would life on the moon look like? Well, first of all, they have no air, so they probably look pretty blue from asphyxiation. When you meet them, it turns out you're right. They're a civilization of blue people. Imagine them all living up there, being blue and Smurfy.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11705,6 +11825,7 @@
     },
     "Coffin": {
         "id": "R05003",
+        "character": "\u8002",
         "mnemonic": "See the slide going into the dirt? That's where they throw your body when you die. It's actually a coffin!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11729,6 +11850,7 @@
     },
     "Color": {
         "id": "R05004",
+        "character": "\u8272",
         "mnemonic": "The bed you get in prison is the only thing with color you'll see while you're there. Picture a dark, dank cell. Maybe a toilet too. Now picture a bright, colorful bed against the wall. This is the only joy you have.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11745,6 +11867,7 @@
     },
     "Feathers": {
         "id": "R05005",
+        "character": "\u7fbd",
         "mnemonic": "This radical already looks like a pair of wings, right? What are on wings? Well, usually lots of feathers.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11781,6 +11904,7 @@
     },
     "Go": {
         "id": "R05006",
+        "character": "\u884c",
         "mnemonic": "You have the radicals for loiter, two, and barb. Someone who uses two barbs on you while you're loitering really wants you to GO!! GO on, stop loitering outside of my convenience store, ya dang kids!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11813,6 +11937,7 @@
     },
     "Gold": {
         "id": "R05007",
+        "character": "\u91d1",
         "mnemonic": "There's two sets of spikes underneath that hat. It's actually a trap, to prevent anyone from coming in and stealing your gold. Why else would you make a trap? Everyone likes to protect their gold.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11945,6 +12070,7 @@
     },
     "Key": {
         "id": "R05008",
+        "character": "\u4e4d",
         "mnemonic": "This is a very oddly shaped key, but it's a key nonetheless.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -11973,6 +12099,7 @@
     },
     "Kick": {
         "id": "R05009",
+        "character": "https://files.wanikani.com/0dhu1giyf87t64fcp993ltgsrf5v",
         "mnemonic": "These are legs that are bending funny. They're bending so they can kick you! Imagine someone doing a flying kick at you. Look at their legs and, ah yes, it looks just like this!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12013,6 +12140,7 @@
     },
     "Lantern": {
         "id": "R05010",
+        "character": "\u5f00",
         "mnemonic": "Think of an old-style lantern. It's on top of a few legs (you can only see two from this angle) and it's in a box shaped holder at the top. You can imagine these lining the streets before electricity, right? That's why this radical is a lantern.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12061,6 +12189,7 @@
     },
     "Lip Ring": {
         "id": "R05011",
+        "character": "\u53ef",
         "mnemonic": "There's something hooked going into a mouth. Rather than a hook, though, it's a lip ring. They used to use fish hooks and nails in the old days. (Glad we don't live in those times anymore!)",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12101,6 +12230,7 @@
     },
     "Meat": {
         "id": "R05012",
+        "character": "\u8089",
         "mnemonic": "Inside your head, you can only think about people, people, and more people. This is bad, because really all you want is their meat, because you're some kind of sick cannibal... you monster. When you think of \"people\" in your head, you're really just thinking about more meat you can eat.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12117,6 +12247,7 @@
     },
     "Meet": {
         "id": "R05013",
+        "character": "\u4f1a",
         "mnemonic": "Under the hat there are two people meeting in private. Look at them huddled up in there. They must have a reason to want to meet in such a private place, but that's not for you to judge. Maybe next time you have to meet with someone you'll hide under a hat with them too.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12133,6 +12264,7 @@
     },
     "Mustache": {
         "id": "R05014",
+        "character": "\u518b",
         "mnemonic": "See the mustache going around the mouth? I wish I could grow a sweet mustache like this.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12189,6 +12321,7 @@
     },
     "Pig": {
         "id": "R05015",
+        "character": "\u8c55",
         "mnemonic": "Here we have the ground radical, with something underneath it. What is it? What likes lying in the ground, covered in mud? You'll have to use your imagination here, but see if you can find the four legs, the little piggy ears, and the curly tail at the bottom. That's right, this is a pig!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12233,6 +12366,7 @@
     },
     "Rain": {
         "id": "R05016",
+        "character": "\u96e8",
         "mnemonic": "The towel is getting soaked with drops of liquid. That's because it's raining. Get your towels and other clothes inside before they get soaked through from this rain!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12305,6 +12439,7 @@
     },
     "Run": {
         "id": "R05017",
+        "character": "\u8d70",
         "mnemonic": "See the person running? Don't confuse this with foot (\u8db3), though. The head is just a streak because this person is running so fast.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12341,6 +12476,7 @@
     },
     "Say": {
         "id": "R05018",
+        "character": "\u8a00",
         "mnemonic": "There are a bunch of sound waves coming out of a mouth. Those waves represent the things you say.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12609,6 +12745,7 @@
     },
     "Scooter": {
         "id": "R05019",
+        "character": "\u2ecc",
         "mnemonic": "This radical is a scooter. See the handlebars and the little light? And there's a platform at the bottom you can stand or sit on (if it's one of those nice motorized ones).",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12841,6 +12978,7 @@
     },
     "Self": {
         "id": "R05020",
+        "character": "\u81ea",
         "mnemonic": "That little fleck / drop on your eye is what makes you unique. It's what makes you your self. It's you, you know?",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -12873,6 +13011,7 @@
     },
     "Tsunami": {
         "id": "R05021",
+        "character": "\u6c35",
         "mnemonic": "You've seen one drop (\u4e36), but what happens when you triple this and have three drops, which happens to be the maximum number of drops you can have? You end up with a devastating tsunami, because there's too much water and nowhere for it to go. Just think of this as a lot of water. When you have a lot of water, you have a tsunami.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13345,6 +13484,7 @@
     },
     "Twenty": {
         "id": "R05022",
+        "character": "\u5efe",
         "mnemonic": "You have \u5341 plus \u5341... what do you get when you add these two kanji together? You get twenty.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13397,6 +13537,7 @@
     },
     "Viking": {
         "id": "R05023",
+        "character": "\u9fb8",
         "mnemonic": "On the top part of the head (\u5182) radical, there is a horn radical with one extra spike in the middle. This is a horned helmet with one extra spike. Who were famous for having a horned helmets like that? The Vikings! That's why this is the Viking radical.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13449,6 +13590,7 @@
     },
     "Village": {
         "id": "R05024",
+        "character": "\u91cc",
         "mnemonic": "This is a rice paddy with dirt around it. This is the perfect place to set up a village. You have a place to farm and some dirt to live on. What else could you need?",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13509,6 +13651,7 @@
     },
     "West": {
         "id": "R05025",
+        "character": "\u897f",
         "mnemonic": "You have pi coming out of a mouth. \"3.14,\" it says. We must take the secret of the circle with us, away from here. We must go to a magical place where nobody will persecute us for our math... a place to the West!",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13525,6 +13668,7 @@
     },
     "Wolverine": {
         "id": "R05026",
+        "character": "\u30e8",
         "mnemonic": "You know Wolverine from the X-Men? He has three claws that come out of his hand whenever he needs to fight, not at all unlike the radical you see here.",
         "difficulty": "pleasant\n",
         "level": "level-5\n",
@@ -13641,6 +13785,7 @@
     },
     "Angel": {
         "id": "R06001",
+        "character": "\u30db",
         "mnemonic": "First of all, there's a cross making up the middle, which automatically makes this a religion-based radical. That cross is the frame of someone's body and the things coming off of it are wings. This is an angel.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13661,6 +13806,7 @@
     },
     "Blood": {
         "id": "R06002",
+        "character": "\u8840",
         "mnemonic": "There's a little speck of something on your plate (\u76bf). \"What is that?\" you ask. Oh no... that speck is BLOOD!!! I hope it's blood from a nosebleed you suddenly have and not someone else's blood. (Your waiter is probably gonna get fired, btw.) At least your platelets should stop the bleeding soon. Haha, get it? PLATE-lets? Japanese blood jokes.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13677,6 +13823,7 @@
     },
     "Boil": {
         "id": "R06003",
+        "character": "\u706c",
         "mnemonic": "This radical looks like the fire from the burner of a stove or the steam coming up off of a pot of water. That's because this is the boil radical. You need to boil a bunch of water over some flames. This radical looks like all of those parts at once!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13749,6 +13896,7 @@
     },
     "City": {
         "id": "R06004",
+        "character": "\u5e02",
         "mnemonic": "You already learned the kanji \u5e02, which means city. We're treating it as a radical too, since it pops up in many other kanji. When used as a radical, it still means city. ",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13765,6 +13913,7 @@
     },
     "Death": {
         "id": "R06005",
+        "character": "\u4ea1",
         "mnemonic": "There's a lid on a lion. And you're stuck under the lid with the lion, which means you will surely meet your death. Or if you don't want to die, think of the poor lion. If you leave a lion under a lid for too long, death will come for it too. Either way, somebody's gonna die today.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13801,6 +13950,7 @@
     },
     "Eat": {
         "id": "R06006",
+        "character": "\u98df",
         "mnemonic": "You put on your hat and go outside to kick something white. It's a big white goose and you killed it with your kick. That's because you're going to cook and eat it. Yum!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13853,6 +14003,7 @@
     },
     "Fortune": {
         "id": "R06007",
+        "character": "\u5360",
         "mnemonic": "Someone has a toe in their mouth. They are a fortune teller telling your fortune. But for her to do it, she has to take one of your toes and taste it. This better be a good fortune for you to let someone put your foot in their mouth.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -13881,6 +14032,7 @@
     },
     "Grain": {
         "id": "R06008",
+        "character": "\u79be",
         "mnemonic": "This is a tree with a slide cutting off the top. What do you cut off the top of trees and plants? The grains. Imagine taking a sickle and slicing the grains off rice or wheat. The plant you leave behind will look like this radical. It's a sign that you got a grain of some sort from it.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14033,6 +14185,7 @@
     },
     "House": {
         "id": "R06009",
+        "character": "\u5bb6",
         "mnemonic": "Under this roof is a pig. Your pig, because it's your house! You keep your pig inside where it's nice and warm. He's a member of your family, so he deserves to live in your house too.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14053,6 +14206,7 @@
     },
     "Jet": {
         "id": "R06010",
+        "character": "\u672a",
         "mnemonic": "This is like one of those jets that have the little nose-wings going on too. Imagine you're looking at the jet from the top down, this is what it would look like. It's also why this is the jet radical.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14101,6 +14255,7 @@
     },
     "Knife": {
         "id": "R06011",
+        "character": "\u5202",
         "mnemonic": "This is a knife. See how it has two sharp sides? And there's a little handle at the bottom for the... well the handle. Be careful you don't cut yourself!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14257,6 +14412,7 @@
     },
     "Ladle": {
         "id": "R06012",
+        "character": "\u6597",
         "mnemonic": "There's a ladle scooping up two drops of liquid. See the handle and the scoop part of the ladle? Imagine ladling some water into your mouth. Mmm.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14281,6 +14437,7 @@
     },
     "Lion": {
         "id": "R06013",
+        "character": "L",
         "mnemonic": "This L-shaped radical is the lion radical, because \"L is for Lion.\" It also looks like a lion's mouth being opened really, really wide. Imagine a lion opening its mouth to yawn. It looks like this radical!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14313,6 +14470,7 @@
     },
     "Long": {
         "id": "R06014",
+        "character": "\u9577",
         "mnemonic": "You have a modified key radical on top of the kick radical. You kick the key as far as you can, then measure the distance. How long did it travel? How long will it take you to find it? How long will you be in trouble for kicking a key into the woods?",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14337,6 +14495,7 @@
     },
     "Mama": {
         "id": "R06015",
+        "character": "\u30de",
         "mnemonic": "This radical is just like the katakana character \"ma\" (\u30de). So let's keep things simple and make the radical mama.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14365,6 +14524,7 @@
     },
     "Neck": {
         "id": "R06016",
+        "character": "\u9996",
         "mnemonic": "There are some horns on the ground that you want for yourself. You pick them up and you attach them to your neck. Imagine these horns sticking out of your neck. No one can slit your throat now that your neck is protected.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14381,6 +14541,7 @@
     },
     "Sheep": {
         "id": "R06017",
+        "character": "\u7f8a",
         "mnemonic": "This is a sheep and you're looking at it from above. See the two ears and the body of the sheep going back (with all its wool poking out to the side) and then the little tail sticking out the back. What a cute sheep!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14457,6 +14618,7 @@
     },
     "Tongue": {
         "id": "R06018",
+        "character": "\u820c",
         "mnemonic": "Something is sticking out of a mouth. Something with a thousand little tastebuds on it. It's your tongue!",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14493,6 +14655,7 @@
     },
     "Yakuza": {
         "id": "R06019",
+        "character": "\u6b79",
         "mnemonic": "The evening radical is under the ground. Who's doing things underground at night? The Yakuza. Picture Yakuza members sneaking around in the subway, or in the sewers. They're definitely up to no good down there.",
         "difficulty": "pleasant\n",
         "level": "level-6\n",
@@ -14541,6 +14704,7 @@
     },
     "Bird": {
         "id": "R07001",
+        "character": "\u9ce5",
         "mnemonic": "See the cool wing on the bottom? See the head with the neat feather coming out of the top? This is a bird. Tweet tweet!",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14581,6 +14745,7 @@
     },
     "Black": {
         "id": "R07002",
+        "character": "\u9ed2",
         "mnemonic": "If you boil a village everything will turn black. Mostly because you're a crazed murderer, but more so because when you boil a village all the roads melt and coat everything in black tar. Picture it! It looks like Pompeii. (Oof, too soon?)",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14597,6 +14762,7 @@
     },
     "Boat": {
         "id": "R07003",
+        "character": "\u821f",
         "mnemonic": "This looks like a boat coming toward you in the water. See the billowing sail and the reflection off the water? That's what boats look like.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14645,6 +14811,7 @@
     },
     "Box": {
         "id": "R07004",
+        "character": "\u51f5",
         "mnemonic": "This box is open. There could be any number of things inside, but for now all you need to know is the meaning of this radical, which is box.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14661,6 +14828,7 @@
     },
     "Circumference": {
         "id": "R07005",
+        "character": "\u5468",
         "mnemonic": "Put some dirt around your head and in your mouth to figure out your head's circumference. When you pull your head out you'll have the perfect shape of your head, making measuring the circumference easy. Oh, and the dirt in your mouth? That's just for the taste.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14685,6 +14853,7 @@
     },
     "Clan": {
         "id": "R07006",
+        "character": "\u6c0f",
         "mnemonic": "Under a cliff, you spot a cross, slightly tilted. The cross is there to mark a famous clan that once ruled the lands below the cliff. It's a pretty unique cross, so whenever you see it there under the cliff, you'll know it honors the clan who lived there.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14725,6 +14894,7 @@
     },
     "Elephant": {
         "id": "R07007",
+        "character": "\u8c61",
         "mnemonic": "In prison there's a pig with a stick in its mouth. Why did the pig put a stick in its mouth? Well, it wanted to look more like an elephant. The stick was supposed to be a trunk or tusk or something, but the real elephants didn't like that. They threw that wannabe elephant in prison.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14741,6 +14911,7 @@
     },
     "Fish": {
         "id": "R07008",
+        "character": "\u9b5a",
         "mnemonic": "In a prison on a rice paddy they're boiling something. What do you think it is? Fish! What goes better with rice? What's easy to find, making it cheap prison food? Fish, of course!",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14781,6 +14952,7 @@
     },
     "Gate": {
         "id": "R07009",
+        "character": "\u9580",
         "mnemonic": "This radical already looks like a gate, right? Just imagine a big gate with two pillars, one on either side. Then, up above are the doors, which can come down at any moment.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14849,6 +15021,7 @@
     },
     "Husband": {
         "id": "R07010",
+        "character": "\u592b",
         "mnemonic": "The radicals ground and big make up this radical. There's a big guy on the ground... who is that big guy? Embarrassingly, it's your husband. Feel the shame that he got knocked down on the ground. By what? Who? How? (It doesn't matter.)",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14905,6 +15078,7 @@
     },
     "Lack": {
         "id": "R07011",
+        "character": "\u6b20",
         "mnemonic": "There's a person in a prison. Why is this person in prison? Because they lack the stuff humans need to be around other humans. If you're lacking something (kindness, self-control, etc.) you may do something that makes other people put you in prison. Try to fix what you lack so this won't happen to you.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -14961,6 +15135,7 @@
     },
     "Oneself": {
         "id": "R07012",
+        "character": "\u5df1",
         "mnemonic": "This looks a bit like a backwards S. S for Self. But it's backwards because you didn't want to mix yourself up with any of the other selves out there, so you flipped it. That's why it means oneself. (That's you!)",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15017,6 +15192,7 @@
     },
     "Stamp": {
         "id": "R07013",
+        "character": "\u5369",
         "mnemonic": "This radical looks a little like the letter P, right? It's a P printed onto something... wait, it's not printed, it's a stamp that's been put on the paper. Peter Parker likes to use stamps instead of pens.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15069,6 +15245,7 @@
     },
     "Table": {
         "id": "R07014",
+        "character": "\u51e0",
         "mnemonic": "What happens when you put a flat surface on top of a pair of legs? You get a table.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15129,6 +15306,7 @@
     },
     "Teacher": {
         "id": "R07015",
+        "character": "\u5b5d",
         "mnemonic": "This radical is made up of coffin and child. To keep a child out of a coffin they'll need a good teacher to make sure they know not to stick forks in outlets or dance in traffic. That's why this radical is a teacher.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15149,6 +15327,7 @@
     },
     "Temple": {
         "id": "R07016",
+        "character": "\u5bfa",
         "mnemonic": "This radical looks kind of like a temple on a hill, don't you think? With all the layers, n' stuff? Just picture that first horizontal line as the base of the ornate temple balancing on that hill underneath it and you'll have no problem remembering this radical.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15193,6 +15372,7 @@
     },
     "Top Hat": {
         "id": "R07017",
+        "character": "\u4e14",
         "mnemonic": "This radical looks just like a top hat. That's why it's top hat!",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15245,6 +15425,7 @@
     },
     "Wing": {
         "id": "R07018",
+        "character": "\u52ff",
         "mnemonic": "See the wing? It's kind of like a bat wing with webbing. Either way, it's just a wing.",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15265,6 +15446,7 @@
     },
     "Yellow": {
         "id": "R07019",
+        "character": "\u9ec4",
         "mnemonic": "Flowers that grow out of the ground of a rice paddy after you bury fins there will grow yellow. Why? Because yellow is the color of a fish's soul, so planting flowers over their fins will turn them into a nice, pretty yellow. ",
         "difficulty": "pleasant\n",
         "level": "level-7\n",
@@ -15281,6 +15463,7 @@
     },
     "Cage": {
         "id": "R08001",
+        "character": "\u531a",
         "mnemonic": "This radical is a cage because it's covered on all sides but one (the one open side is where the cage door or gate is). There's nothing inside this cage because there's no gate, and whatever was inside has gotten out. I hope it wasn't rabid...",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15317,6 +15500,7 @@
     },
     "Cape": {
         "id": "R08002",
+        "character": "\ud840\udccc",
         "mnemonic": "This is a cape, like the kind a superhero would wear. See how it's hanging to the side? Imagine tying it around your neck and running around so it flies behind you.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15337,6 +15521,7 @@
     },
     "Cloud": {
         "id": "R08003",
+        "character": "\u4e91",
         "mnemonic": "This is the radical for cloud. See how the cloud is puffy on the bottom but has two lines up top? That's because a plane flew through it. If humans didn't invent planes, this cloud radical might look different. Really makes you think, huh?",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15373,6 +15558,7 @@
     },
     "Compare": {
         "id": "R08004",
+        "character": "\u6bd4",
         "mnemonic": "This radical is made up of two slightly different versions of the spoon radical (which you should already know). Look closely at these two spoons. Compare their differences. Like one of those magazines where you compare two similar pictures. But this time it's with spoons.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15417,6 +15603,7 @@
     },
     "Easy": {
         "id": "R08005",
+        "character": "\u6613",
         "mnemonic": "Flying to the sun with wings is easy! Or so Icarus thinks. Someone should probably tell him\u2026",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15453,6 +15640,7 @@
     },
     "Hook": {
         "id": "R08006",
+        "character": "\u30e6",
         "mnemonic": "There's a flat line for where the hand was cut off. In it is a hook like a pirate might have. Yarrrr.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15477,6 +15665,7 @@
     },
     "Horse": {
         "id": "R08007",
+        "character": "\u99ac",
         "mnemonic": "Don't confuse this radical with the bird \u9ce5 radical. It looks similar, with the wing on the bottom and the shape on top, but it doesn't have a feather sticking out of the top of its head and it has a long, thick neck. So while it moves fast like it has wings, it's no bird, it's a horse.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15537,6 +15726,7 @@
     },
     "Net": {
         "id": "R08008",
+        "character": "\u7f52",
         "mnemonic": "This is a net, spread out over the water. Imagine all the fish you can catch in this net!",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15629,6 +15819,7 @@
     },
     "Sickle": {
         "id": "R08009",
+        "character": "\u91c6",
         "mnemonic": "Most of this radical is just the rice radical, but the top part is something coming to cut the rice from its stalk. That, my friend, is the sickle. See how the rice is still there? That's because it's in motion. The sickle is literally doing the cutting RIGHT NOW! (And don't confuse this with the grain \u79be radical!)",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15645,6 +15836,7 @@
     },
     "Snake": {
         "id": "R08010",
+        "character": "\u5df3",
         "mnemonic": "There's two ways to remember this one. First, you could look at this and see it's a coiled up snake. Or, if you want, you can imagine it as a snake head, with its face facing to the right (see its open mouth?). We may use either when learning a kanji, but for now you can pick the one that fits best with your memorization style. Just make sure you get to snake when you see this radical.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15677,6 +15869,7 @@
     },
     "Suit": {
         "id": "R08011",
+        "character": "\u5408",
         "mnemonic": "You find a hat on the ground with a mouth as the design on the front. You think it looks weird, but when you put it on, you find it suits you quite well. Imagine yourself feeling not so sure about this hat at first. But, once you put it on, you feel pleasantly surprised.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15709,6 +15902,7 @@
     },
     "Weapon": {
         "id": "R08012",
+        "character": "\u6bb3",
         "mnemonic": "Stick a table on top of a stool and you end up with a very dangerous weapon. Imagine hitting someone with this thing! Or, even better, imagine making someone sit on it. They'd be crushed mentally and emotionally and whatnot. Now that's a scary weapon.",
         "difficulty": "pleasant\n",
         "level": "level-8\n",
@@ -15789,6 +15983,7 @@
     },
     "Anti": {
         "id": "R09001",
+        "character": "\u53cd",
         "mnemonic": "This radical is the same as the kanji. It means anti.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -15829,6 +16024,7 @@
     },
     "Brush": {
         "id": "R09002",
+        "character": "\u807f",
         "mnemonic": "It's easier to imagine if you turn your head sideways. The left side of this radical is the brush. See all the bristles?",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -15881,6 +16077,7 @@
     },
     "Building": {
         "id": "R09003",
+        "character": "\u961d",
         "mnemonic": "This radical looks like a curvy letter B. What does B stand for? Building! This radical is used in a lot of kanji to mark that it's a building, or that it has something to do with buildings.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16065,6 +16262,7 @@
     },
     "Cleat": {
         "id": "R09004",
+        "character": "\u2ea4",
         "mnemonic": "There's the bottom of the shoe and the spikes coming out of it. Only one kind of shoe is like this, and that is a cleat.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16129,6 +16327,7 @@
     },
     "Clown": {
         "id": "R09005",
+        "character": "\u5485",
         "mnemonic": "Clowns do weird tricks. One trick they might do is stand on their mouth (or stand on someone else's mouth). Imagine a clown doing either one of these things to remember this radical: clown.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16161,6 +16360,7 @@
     },
     "Coat Rack": {
         "id": "R09006",
+        "character": "\u758b",
         "mnemonic": "See all the arms sticking out of this radical? Those are for hanging lots of hats and scarves and coats on because it's a coat rack.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16189,6 +16389,7 @@
     },
     "Correct": {
         "id": "R09007",
+        "character": "\u6b63",
         "mnemonic": "This radical is the same as the kanji. It means correct.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16265,6 +16466,7 @@
     },
     "Eternity": {
         "id": "R09008",
+        "character": "\u6c38",
         "mnemonic": "A drop of water will last for an eternity. Do you remember learning about the water cycle in school? A single drop of water can recycle itself this way for all eternity!",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16285,6 +16487,7 @@
     },
     "Gladiator": {
         "id": "R09009",
+        "character": "\u9fb9",
         "mnemonic": "Someone shoved horns down onto your husband and said he has to fight for them now. They turned him into a gladiator! Now your husband has to fight for their amusement. Oh no!",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16317,6 +16520,7 @@
     },
     "Heavy": {
         "id": "R09010",
+        "character": "\u91cd",
         "mnemonic": "This radical is made up of a thousand villages. If you tried to lift them, what would it be? Heavy! And probably crazy. But just remember how heavy a thousand villages would be.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16349,6 +16553,7 @@
     },
     "Helicopter": {
         "id": "R09011",
+        "character": "\u8980",
         "mnemonic": "This radical looks like a helicopter coming straight at you, doesn't it? You can't see the tail part because it's behind the bigger front cab of the helicopter. But you can see the windows and the big spinning blade on top from here.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16409,6 +16614,7 @@
     },
     "History": {
         "id": "R09012",
+        "character": "\u53f2",
         "mnemonic": "A mouth that's talking about treasure... that sounds more like ancient history to me. Just because there was treasure buried all over the place back in history, doesn't mean it wasn't found by now. Don't let history take over your life, like it has the person who owns this mouth.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16425,6 +16631,7 @@
     },
     "Jammed In": {
         "id": "R09013",
+        "character": "\u4ecb",
         "mnemonic": "This radical kind of looks like an arrow, but not an ordinary one. It's curvy and forced, right? Like it's trying to tell you something is being jammed in to wherever it's pointing.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16441,6 +16648,7 @@
     },
     "Machine": {
         "id": "R09014",
+        "character": "\u53f0",
         "mnemonic": "This radical is the same as the kanji. It means machine.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16469,6 +16677,7 @@
     },
     "Pope": {
         "id": "R09015",
+        "character": "https://files.wanikani.com/zjrb5pypsqst01qqzrf7ikowyrs1",
         "mnemonic": "Someone has crosses for eyes. That would have to be a really devout Catholic. Who's number one in that field? That would be the Pope.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16489,6 +16698,7 @@
     },
     "Spicy": {
         "id": "R09016",
+        "character": "\u8f9b",
         "mnemonic": "You're standing up on top of a cross. Why? Because you ate something so spicy that it caused you to beg Jesus for mercy. You need to save your mouth from the spicy flames. To make sure he hears you, you stand up on the closest cross. Make sure to feel how spicy this is in your mouth to remember it better!",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16517,6 +16727,7 @@
     },
     "Spring": {
         "id": "R09017",
+        "character": "\ud845\uddd7",
         "mnemonic": "This radical looks like some new plants pushing their way up and out of the soil. That's because this is the spring radical. Spring is the season (and the radical) full of new, growing life!",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16561,6 +16772,7 @@
     },
     "Squid": {
         "id": "R09018",
+        "character": "\u3452",
         "mnemonic": "See the squid shape here? There's its head, its body, and its tentacles (two, anyway). Pretty squid-like if you ask me!",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16589,6 +16801,7 @@
     },
     "Tent": {
         "id": "R09019",
+        "character": "\u7676",
         "mnemonic": "Kind of a strange tent, I'll admit, but one that will protect you from things trying to get in (that's why it has all the spikes). It's the best you can do, considering you're in a cloth/plastic building.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16613,6 +16826,7 @@
     },
     "Yurt": {
         "id": "R09020",
+        "character": "https://files.wanikani.com/15z81qc4c77tmjeypri69yrtipgd",
         "mnemonic": "There's a canopy with a little table and seats inside. This is a yurt! It may look like a canopy at first, but when you go inside it has a bunch of nice furniture for you to relax on.",
         "difficulty": "pleasant\n",
         "level": "level-9\n",
@@ -16641,6 +16855,7 @@
     },
     "Alcohol": {
         "id": "R10001",
+        "character": "\u9149",
         "mnemonic": "See the west radical on top of the mouth radical? Think of the mouth of someone from the wild west (like in a cowboy movie). What is always in their mouth? It's alcohol.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16717,6 +16932,7 @@
     },
     "Beans": {
         "id": "R10002",
+        "character": "\u8c46",
         "mnemonic": "This radical has a pod (the square in the middle) between the ground and some roots. That pod is going to turn into a plant someday. What plant will it be? Great big beans, like the ones from Jack and the Beanstalk.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16753,6 +16969,7 @@
     },
     "Bundle": {
         "id": "R10003",
+        "character": "\u675f",
         "mnemonic": "This is a tree with something wrapped around its middle, holding it tight. If you unwrapped that middle part you'd realize it's actually a bunch of trees tied in there. It's a bundle of trees!",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16785,6 +17002,7 @@
     },
     "Chinese": {
         "id": "R10004",
+        "character": "\ud85b\udc29",
         "mnemonic": "Why is your husband putting flowers in his mouth? It's because he's Chinese. It's just something they do over there, you explain. Tea is flower water, this isn't that weird. Chinese people just thought of doing it first.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16805,6 +17023,7 @@
     },
     "Dynamite": {
         "id": "R10005",
+        "character": "\u4e19",
         "mnemonic": "Doesn't this radical look like one of those old-fashioned dynamite plunger things that gets pushed to set the fuse? That makes this dynamite!",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16821,6 +17040,7 @@
     },
     "Fault": {
         "id": "R10006",
+        "character": "\u5931",
         "mnemonic": "This radical is the same as the kanji. It means fault.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16841,6 +17061,7 @@
     },
     "Geoduck": {
         "id": "R10007",
+        "character": "\u9801",
         "mnemonic": "This radical consists of a shellfish with a leaf on it. What is it? The mysterious geoduck. It's a very distinct clam-like creature. If you don't know what a geoduck is, look it up. It's quite bizarre. It has a long, leaf-shaped protrusion coming out of its shell body.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16941,6 +17162,7 @@
     },
     "Kiss": {
         "id": "R10008",
+        "character": "\u5404",
         "mnemonic": "When you combine winter and mouth you get... winter mouth! Or at least a mouth that tastes like winter because it's coming in for a kiss. Before you go kissing people you eat mints, right? It's common courtesy so you don't give them a mouth full of bad breath. So when you think of a winter mouth, think of a nice, minty kiss!",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -16989,6 +17211,7 @@
     },
     "Landslide": {
         "id": "R10009",
+        "character": "\u8fb0",
         "mnemonic": "If you kick a cliff you'll start a landslide! Oh no!",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17021,6 +17244,7 @@
     },
     "Music": {
         "id": "R10010",
+        "character": "\u66f2",
         "mnemonic": "This radical is the same as the kanji. It means music.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17053,6 +17277,7 @@
     },
     "Sell": {
         "id": "R10011",
+        "character": "\u58f2",
         "mnemonic": "This radical is the same as the kanji. It means sell.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17069,6 +17294,7 @@
     },
     "Sick": {
         "id": "R10012",
+        "character": "\u7592",
         "mnemonic": "This is the canopy radical with ice running down the back. If you hang out in a cold canopy like this you'll definitely get sick. Imagine being sick and alone inside a cold canopy. Brrrr, oh no... ACHOO!",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17129,6 +17355,7 @@
     },
     "Stairs": {
         "id": "R10013",
+        "character": "\u4e43",
         "mnemonic": "See the stairs shape on the right side? Also note it's being held up by a pillar or beam or something, to make sure the stairs don't just collapse as you walk up them.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17157,6 +17384,7 @@
     },
     "Tombstone": {
         "id": "R10014",
+        "character": "\u5723",
         "mnemonic": "There is a stool sticking out of the dirt. You walk up and realize it has writing on it. It's actually a tombstone. You can sit on it and remember the people who are below the dirt now.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17185,6 +17413,7 @@
     },
     "Turkey": {
         "id": "R10015",
+        "character": "\u96b9",
         "mnemonic": "This looks kind of like the top of the bird radical, but not quite. It's kind of a dumb-looking bird radical top. What's a dumb bird, so dumb that it would look into the sky to drown itself with its mouth open? A turkey.",
         "difficulty": "pleasant\n",
         "level": "level-10\n",
@@ -17349,6 +17578,7 @@
     },
     "Bear": {
         "id": "R11001",
+        "character": "\u382f",
         "mnemonic": "This looks like the letter \"B\" which stands for bear. B for Bear! The letter B also looks a bit like a bear, if you think about it.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17393,6 +17623,7 @@
     },
     "Blackjack": {
         "id": "R11002",
+        "character": "\u9fb7",
         "mnemonic": "You have the radical twenty and the kanji one. Put those together and you get 21. What's another name for 21? That's blackjack.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17417,6 +17648,7 @@
     },
     "Drunkard": {
         "id": "R11003",
+        "character": "\u6208",
         "mnemonic": "This is a ceremony radical with a slide radical. Why would a ceremony need a slide? For drunkards, of course! People love to drink at ceremonies, and when they've had too much, those drunkards like to go down slides. If your ceremony has a slide, the drunkards will be happy.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17541,6 +17773,7 @@
     },
     "Escalator": {
         "id": "R11004",
+        "character": "\u53ca",
         "mnemonic": "Do you remember stairs (\u4e43)? This radical is a lot like that, but it has extra bits and pieces. It's still stairs... but it's more complicated. And faster! That's why it's an escalator instead!",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17565,6 +17798,7 @@
     },
     "Few": {
         "id": "R11005",
+        "character": "\u5c11",
         "mnemonic": "This radical is the same as the kanji. It means few.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17605,6 +17839,7 @@
     },
     "Humble": {
         "id": "R11006",
+        "character": "\u7533",
         "mnemonic": "This radical is the same as the kanji you learned earlier, but the meaning is a little different. It's not just for saying things humbly, it's for being humble in general. When you see this radical, think about being humble.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17633,6 +17868,7 @@
     },
     "Older Brother": {
         "id": "R11007",
+        "character": "\u5144",
         "mnemonic": "This radical is the same as the kanji. It means older brother.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17661,6 +17897,7 @@
     },
     "Orders": {
         "id": "R11008",
+        "character": "\u4ee4",
         "mnemonic": "The \"Hat-Ground\" stamp is on this envelope. That can only mean one thing: Orders from HQ. Imagine this stamp on some orders for you\u2014read the orders out loud to help yourself remember that this hat-ground stamp means \"orders\" and nothing else.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17697,6 +17934,7 @@
     },
     "Root": {
         "id": "R11009",
+        "character": "\u826e",
         "mnemonic": "If the sun is out and you kick the ground, you'll hit a root. Roots try to come up when the sun is bright. But if you kick too hard, the root will trip you, so watch out!",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17761,6 +17999,7 @@
     },
     "Simple": {
         "id": "R11010",
+        "character": "\u5358",
         "mnemonic": "There's some stuff growing out of this rice paddy and there is a cross guarding over it. This rice paddy is owned by a simple family that lives the simple life. They grow their rice, pray to their god, and everything is nice and simple. Ahh, I'm jealous.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17785,6 +18024,7 @@
     },
     "Skin": {
         "id": "R11011",
+        "character": "\u76ae",
         "mnemonic": "This radical is the same as the kanji. It means skin.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17817,6 +18057,7 @@
     },
     "Sound": {
         "id": "R11012",
+        "character": "\u97f3",
         "mnemonic": "This radical is the same as the kanji. It means sound.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17849,6 +18090,7 @@
     },
     "Trash": {
         "id": "R11013",
+        "character": "\ud842\uded3",
         "mnemonic": "There's a lid on top of something you're trying to keep private. It's your trash. You wouldn't want people going through your private trash, which is why we put lids on our trash cans. It's also illegal to look through someone's trash, so make sure you never do that.",
         "difficulty": "painful\n",
         "level": "level-11\n",
@@ -17881,6 +18123,7 @@
     },
     "Asia": {
         "id": "R12001",
+        "character": "\u4e9c",
         "mnemonic": "This radical looks like a helicopter on the ground. Or a TIE fighter from above (going to the side). Either way, it's okay because you know where both helicopters and TIE fighters are made: Asia! Most aircraft are made in Asia these days, ya know?",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -17897,6 +18140,7 @@
     },
     "Beforehand": {
         "id": "R12002",
+        "character": "\u4e88",
         "mnemonic": "This radical is the same as the kanji. It means beforehand.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -17917,6 +18161,7 @@
     },
     "Business": {
         "id": "R12003",
+        "character": "\u696d",
         "mnemonic": "This radical is the same as the kanji. It means business.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -17933,6 +18178,7 @@
     },
     "Crab": {
         "id": "R12004",
+        "character": "\u5176",
         "mnemonic": "This looks like the shellfish radical but it's spikier and crazier. Which shelled creature has spikes and pincers? The mighty crab!",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -17965,6 +18211,7 @@
     },
     "Early": {
         "id": "R12005",
+        "character": "\u65e9",
         "mnemonic": "This radical is the same as the kanji. It means early.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -17985,6 +18232,7 @@
     },
     "Excuse": {
         "id": "R12006",
+        "character": "\u514d",
         "mnemonic": "This radical consists of some legs carrying the sun out of prison. Those legs are yours. When the police stop you, though, what's your excuse? Come up with one and say it out loud, starting with, \"My excuse is...\"",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18009,6 +18257,7 @@
     },
     "Fix": {
         "id": "R12007",
+        "character": "\u76f4",
         "mnemonic": "This radical is the same as the kanji. It means fix.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18033,6 +18282,7 @@
     },
     "Jackhammer": {
         "id": "R12008",
+        "character": "\u793a",
         "mnemonic": "Do you see the handles on the top and the barb on the bottom? It's a jackhammer. How can you tell? The two diagonal lines on the side show the motion of the jackhammer going up and down really fast, doing what jackhammers do. BBBHHRZHHHHRHHRZHZHHZH JUJUJUJUJU.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18113,6 +18363,7 @@
     },
     "Request": {
         "id": "R12009",
+        "character": "\u6c42",
         "mnemonic": "This radical is the same as the kanji. It means request.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18129,6 +18380,7 @@
     },
     "Someone": {
         "id": "R12010",
+        "character": "\u8005",
         "mnemonic": "This radical is the same as the kanji. It means someone.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18177,6 +18429,7 @@
     },
     "Tofu": {
         "id": "R12011",
+        "character": "https://files.wanikani.com/w371b37nk3fbuf2p4bfclqu33ayr",
         "mnemonic": "See the T and F that make up this radical? Those letters stand for tofu, our favorite bean curd blocks.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18201,6 +18454,7 @@
     },
     "Together": {
         "id": "R12012",
+        "character": "\u5171",
         "mnemonic": "This radical is the same as the kanji. It means together.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18249,6 +18503,7 @@
     },
     "Yoga": {
         "id": "R12013",
+        "character": "\u5ef4",
         "mnemonic": "This looks like someone taking really huge steps and stretching themselves out. Does that sound like anything you know? It should, because it's what you do in yoga. Stretch out your legs and arms until you look like this radical. Great! You're doing yoga now!",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18289,6 +18544,7 @@
     },
     "Younger Brother": {
         "id": "R12014",
+        "character": "\u5f1f",
         "mnemonic": "This radical is the same as the kanji. It means younger brother.",
         "difficulty": "painful\n",
         "level": "level-12\n",
@@ -18301,6 +18557,7 @@
     },
     "Body": {
         "id": "R13001",
+        "character": "\u8eab",
         "mnemonic": "This radical is almost the same as the kanji, but it drops the \"some\" from somebody, making this just a body. Like the physical body you're trapped in right now.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18321,6 +18578,7 @@
     },
     "Bookshelf": {
         "id": "R13002",
+        "character": "\u518a",
         "mnemonic": "This looks like a bunch of books on a shelf. It's a bookshelf!",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18349,6 +18607,7 @@
     },
     "Can": {
         "id": "R13003",
+        "character": "\u7f36",
         "mnemonic": "It's kind of hard to see, but if you look at this the right way it looks like a tin can. The lines in the middle show the circumference, and the lines on the tops and sides show the outline of the can.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18369,6 +18628,7 @@
     },
     "Circle": {
         "id": "R13004",
+        "character": "\u4e38",
         "mnemonic": "This radical is the same as the kanji. It means circle.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18397,6 +18657,7 @@
     },
     "Creeper": {
         "id": "R13005",
+        "character": "https://files.wanikani.com/nb178l9s3p19munbl7unsn8x00k6",
         "mnemonic": "Do you see the little mustache on top of the mouth? It's one of those creepy mustaches... a John Waters sort of deal. That's why this radical is called creeper. (It also bears some resemblance to a certain hissing green thing's head but... well, you remember it how you want.)",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18421,6 +18682,7 @@
     },
     "East": {
         "id": "R13006",
+        "character": "\u6771",
         "mnemonic": "This radical is the same as the kanji. It means east.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18453,6 +18715,7 @@
     },
     "Fruit": {
         "id": "R13007",
+        "character": "\u679c",
         "mnemonic": "Everything's about rice in ancient Japan and China. So the rice paddy that is on the tree isn't rice, of course, it's another kind of food. It's fruit!",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18485,6 +18748,7 @@
     },
     "Good": {
         "id": "R13008",
+        "character": "\u826f",
         "mnemonic": "This radical is the same as the kanji. It means good.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18517,6 +18781,7 @@
     },
     "Hundred": {
         "id": "R13009",
+        "character": "\u767e",
         "mnemonic": "This radical is the same as the kanji. It means hundred.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18541,6 +18806,7 @@
     },
     "Idea": {
         "id": "R13010",
+        "character": "\u610f",
         "mnemonic": "This radical is the same as the kanji. It means idea.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18557,6 +18823,7 @@
     },
     "Original": {
         "id": "R13011",
+        "character": "\u539f",
         "mnemonic": "See that cliff? The white, small one? That's an original cliff, one of the first cliffs that ever existed. You can always spot original cliffs because they're white and small. More complex cliffs emerged over time, but the original cliffs remained white and small. ",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18577,6 +18844,7 @@
     },
     "Products": {
         "id": "R13012",
+        "character": "\u54c1",
         "mnemonic": "Three boxes are stacked up on top of each other. These are products waiting to be shipped out.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18597,6 +18865,7 @@
     },
     "Shrimp": {
         "id": "R13013",
+        "character": "\u5c3a",
         "mnemonic": "This radical has a little head and some shrimpy legs sticking out of it. That's because it's a shrimp!",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18637,6 +18906,7 @@
     },
     "Soul": {
         "id": "R13014",
+        "character": "\u5fc4",
         "mnemonic": "There are fins floating off of what's left of a fish. This is the fish's soul, left over after you ate its body. Make sure you wave goodbye to the souls of the fish you eat. It's respectful.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18757,6 +19027,7 @@
     },
     "Womb": {
         "id": "R13015",
+        "character": "\u5774",
         "mnemonic": "Legs appear between two lumps of dirt. This is the earth's version of a womb. Imagine a tiny baby growing under the ground and then sprouting out, legs first, into the world. Imagine being inside this dirt womb. It's warm and damp. You feel safe.",
         "difficulty": "painful\n",
         "level": "level-13\n",
@@ -18781,6 +19052,7 @@
     },
     "Animal": {
         "id": "R14001",
+        "character": "\u72ad",
         "mnemonic": "This looks like a tail with some hairs coming off of it. It shouldn't be confused with fingers though, because it's curved, and the things sticking out are more erratic, like hair or fur would be. That's why this radical is the animal radical.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18849,6 +19121,7 @@
     },
     "Bar": {
         "id": "R14002",
+        "character": "\u39ae",
         "mnemonic": "There are two drunkards here. That makes this radical a bar. Where else are you gonna drink?",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18877,6 +19150,7 @@
     },
     "Part": {
         "id": "R14003",
+        "character": "\u5206",
         "mnemonic": "This radical is the same as the kanji. It means part.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18905,6 +19179,7 @@
     },
     "Pool": {
         "id": "R14004",
+        "character": "\u52fa",
         "mnemonic": "There's a drop of water trapped in a prison. A prison for us to play in! It's a pool! The water may not like being in there, but all of us hot people sure do.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18937,6 +19212,7 @@
     },
     "Public": {
         "id": "R14005",
+        "character": "\u516c",
         "mnemonic": "This radical is the same as the kanji. It means public.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18961,6 +19237,7 @@
     },
     "Talent": {
         "id": "R14006",
+        "character": "\u624d",
         "mnemonic": "This radical is the same as the kanji. It means  talent.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -18981,6 +19258,7 @@
     },
     "Well": {
         "id": "R14007",
+        "character": "\u4e95",
         "mnemonic": "Think of this radical like a map you're looking down on. There are four streets going through this small town. Right in the middle is the most important thing\u2014the well. Everyone goes through the four streets to get to the well and get the water they crave.",
         "difficulty": "painful\n",
         "level": "level-14\n",
@@ -19005,6 +19283,7 @@
     },
     "Again": {
         "id": "R15001",
+        "character": "\u4ea6",
         "mnemonic": "You've got some legs and fins under the ground. But see that little thing sticking out? That\u2019s there because the legs and fins keep poking out again and again. They keep poking out of the ground, and you have to shove them back in. Again and again.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19033,6 +19312,7 @@
     },
     "Courage": {
         "id": "R15002",
+        "character": "\u52c7",
         "mnemonic": "When a mama stands with a man, it gives him courage.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19049,6 +19329,7 @@
     },
     "Grass": {
         "id": "R15003",
+        "character": "\ud875\udd44",
         "mnemonic": "Don't confuse this with triceratops. Grass is closer together, and a little bushier, like this. It's also more random and squished down in parts. If you see a bush of lines like this, it's probably going to be grass.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19093,6 +19374,7 @@
     },
     "Height": {
         "id": "R15004",
+        "character": "\u4e08",
         "mnemonic": "There is a narwhal at the top of this slide. What's it doing? The narwhal is trying to increase its height. Picture a narwhal propping itself up on a slide. It's self-conscious of its height. It's trying to prove to all the other narwhals that it should be allowed to play in their narwhal games, even though it's not the same height as them.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19105,6 +19387,7 @@
     },
     "Paragraph": {
         "id": "R15005",
+        "character": "\u53e5",
         "mnemonic": "You're locking the things that come out of your mouth in prison. The prison of paper and rules, that is. These words turn into well-formed paragraphs.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19125,6 +19408,7 @@
     },
     "Past": {
         "id": "R15006",
+        "character": "\u53bb",
         "mnemonic": "This radical is the same as the kanji. It means past.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19145,6 +19429,7 @@
     },
     "Scarecrow": {
         "id": "R15007",
+        "character": "\u7550",
         "mnemonic": "A creeper in a rice paddy? That's just a scarecrow!",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19169,6 +19454,7 @@
     },
     "Walk": {
         "id": "R15008",
+        "character": "\u6b69",
         "mnemonic": "This radical is the same as the kanji. It means walk.",
         "difficulty": "painful\n",
         "level": "level-15\n",
@@ -19185,6 +19471,7 @@
     },
     "Attach": {
         "id": "R16001",
+        "character": "\u4ed8",
         "mnemonic": "This radical is the same as the kanji. It means attach.",
         "difficulty": "painful\n",
         "level": "level-16\n",
@@ -19205,6 +19492,7 @@
     },
     "Drum": {
         "id": "R16002",
+        "character": "\u58f4",
         "mnemonic": "This radical is made up of samurai and beans. Samurai used to put beans in drums so they could tap and shake them to make noise. Can you imagine shaking and tapping this drum radical?",
         "difficulty": "painful\n",
         "level": "level-16\n",
@@ -19233,6 +19521,7 @@
     },
     "Face": {
         "id": "R16003",
+        "character": "\u9762",
         "mnemonic": "You have a leaf, a mouth, and an eye. Those are all things you'll find on a face! Wait, you don't have a leaf growing out of your face? Huh... well just imagine you have a normal human face with a leaf on there somewhere, ya weirdo.",
         "difficulty": "painful\n",
         "level": "level-16\n",
@@ -19249,6 +19538,7 @@
     },
     "Valley": {
         "id": "R16004",
+        "character": "\u8c37",
         "mnemonic": "This radical is the same as the kanji. It means valley.",
         "difficulty": "painful\n",
         "level": "level-16\n",
@@ -19277,6 +19567,7 @@
     },
     "Zombie": {
         "id": "R16005",
+        "character": "\u8881",
         "mnemonic": "This radical has a figure reaching out both hands at you with some dirt on his head. This is a zombie, and he must have just recently dug himself out of the grave by the looks of it.",
         "difficulty": "painful\n",
         "level": "level-16\n",
@@ -19301,6 +19592,7 @@
     },
     "Comfort": {
         "id": "R17001",
+        "character": "\u697d",
         "mnemonic": "This radical is the same as the kanji. It means comfort.",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19313,6 +19605,7 @@
     },
     "Criminal": {
         "id": "R17002",
+        "character": "\u975e",
         "mnemonic": "You think you see some legs behind those bars. Who gets put behind bars? Only criminals. This criminal is pretty tall, since you only see his legs behind there.",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19357,6 +19650,7 @@
     },
     "Festival": {
         "id": "R17003",
+        "character": "\u796d",
         "mnemonic": "This radical is the same as the kanji. It means festival.",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19377,6 +19671,7 @@
     },
     "Good Luck": {
         "id": "R17004",
+        "character": "\u5409",
         "mnemonic": "This is the samurai radical on top of the mouth radical. If you get to hear what a samurai says, you'll have really good luck. Samurai are pretty hard to find nowadays, which is probably why my luck has been so bad...",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19397,6 +19692,7 @@
     },
     "Guard": {
         "id": "R17005",
+        "character": "\u5151",
         "mnemonic": "This radical is made up of horns and older brother. But those aren't really horns, they're a part of your older brother's new guard uniform. He's a guard now, of a bank or a museum. You don't know which, but you know he stands around a lot in his uniform now.",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19429,6 +19725,7 @@
     },
     "Nothing": {
         "id": "R17006",
+        "character": "\u7121",
         "mnemonic": "There are a bunch of cages boiling. But you look inside the cages and there... there's nothing. You boiled whatever was in there down to nothing!",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19445,6 +19742,7 @@
     },
     "Poem": {
         "id": "R17007",
+        "character": "\u82df",
         "mnemonic": "The flowery paragraph isn't just regular writing. It's flowery, which makes it a poem.",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19465,6 +19763,7 @@
     },
     "Tiger": {
         "id": "R17008",
+        "character": "\u864d",
         "mnemonic": "You lost seven toes on a cliff, but you consider yourself lucky considering you got them taken off by the cliff tiger that lives in the area. Imagine a tiger taking your seven toes as you hang off the edge of a cliff if it helps. Exciting! (And also painful!)",
         "difficulty": "painful\n",
         "level": "level-17\n",
@@ -19513,6 +19812,7 @@
     },
     "Conflict": {
         "id": "R18001",
+        "character": "\u4e89",
         "mnemonic": "This radical is the same as the kanji. It means conflict.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19529,6 +19829,7 @@
     },
     "Gambler": {
         "id": "R18002",
+        "character": "\u5c2d",
         "mnemonic": "The gambler holds a cross as he plays blackjack. He stands on his two legs expectantly, hoping he hits the big one. He just put all his money down. If he doesn't win this one the gambler loses everything, including the two legs he's standing on.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19545,6 +19846,7 @@
     },
     "Happiness": {
         "id": "R18003",
+        "character": "\u5e78",
         "mnemonic": "This radical is the same as the kanji. It means happiness. Don't get it confused with the spicy radical \u8f9b, they're very similar!",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19565,6 +19867,7 @@
     },
     "Long Ago": {
         "id": "R18004",
+        "character": "\u6614",
         "mnemonic": "This radical is the same as the kanji. It means long ago.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19593,6 +19896,7 @@
     },
     "Mask": {
         "id": "R18005",
+        "character": "\u66fd",
         "mnemonic": "This looks kind of like a mask, right? It has horns, it has crazy eyes, and it has a big mouth. Nobody would actually look like this, which is why this is just a mask.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19625,6 +19929,7 @@
     },
     "Noon": {
         "id": "R18006",
+        "character": "\u5348",
         "mnemonic": "This radical is the same as the kanji. It means noon.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19641,6 +19946,7 @@
     },
     "Previous": {
         "id": "R18007",
+        "character": "\u5148",
         "mnemonic": "This radical is the same as the kanji. It means previous.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19653,6 +19959,7 @@
     },
     "Treasure Chest": {
         "id": "R18008",
+        "character": "\u51f6",
         "mnemonic": "There's a treasure radical inside this box. What holds treasures? A treasure chest.",
         "difficulty": "painful\n",
         "level": "level-18\n",
@@ -19677,6 +19984,7 @@
     },
     "Become": {
         "id": "R19001",
+        "character": "\u6210",
         "mnemonic": "This radical is the same as the kanji. It means become.",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19701,6 +20009,7 @@
     },
     "Black Hole": {
         "id": "R19002",
+        "character": "\u590d",
         "mnemonic": "When you shoot your gun at the sun, it becomes winter. The shot you fired sent the sun into a crazy chain reaction, making it implode in on itself and become a black hole. Imagine this happening and imagine the shock you'd feel. You shot the sun. You caused this infinite winter (and soon black hole death).",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19729,6 +20038,7 @@
     },
     "Director": {
         "id": "R19003",
+        "character": "\u53f8",
         "mnemonic": "This radical is the same as the kanji. It means director.",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19749,6 +20059,7 @@
     },
     "Ego": {
         "id": "R19004",
+        "character": "\u6211",
         "mnemonic": "There's a drunkard holding out his fingers. He's staring at them. Realizing who he is. He's becoming aware of his ego. Now that he's aware of himself, he's probably going to get an inflated ego too. Yuck.",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19765,6 +20076,7 @@
     },
     "Reason": {
         "id": "R19005",
+        "character": "\u7531",
         "mnemonic": "This radical is the same as the kanji. It means reason.",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19801,6 +20113,7 @@
     },
     "Right": {
         "id": "R19006",
+        "character": "\u53f3",
         "mnemonic": "This radical is the same as the kanji. It means right.",
         "difficulty": "painful\n",
         "level": "level-19\n",
@@ -19821,6 +20134,7 @@
     },
     "Explosion": {
         "id": "R20001",
+        "character": "https://files.wanikani.com/c4mr6dvhrg2vozxgg7252hbtkhg9",
         "mnemonic": "See the energy bursting outward? That's an explosion. Boom!",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19845,6 +20159,7 @@
     },
     "Flood": {
         "id": "R20002",
+        "character": "\u5ddb",
         "mnemonic": "The three lines that make up the river radical are being pulled to one direction. It's a giant force of water going to the left. It's a flood! RUN!",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19865,6 +20180,7 @@
     },
     "Fly": {
         "id": "R20003",
+        "character": "\u98db",
         "mnemonic": "This radical is pretty complicated, but not much looks like this radical, so you're in luck. This looks like a giant flying fortress of some kind. See the propellers on the back as it moves to the left? Just imagine something like this flying through the air. That's why this radical is fly, because it is flying.",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19877,6 +20193,7 @@
     },
     "Mole": {
         "id": "R20004",
+        "character": "\u81f3",
         "mnemonic": "There's trash on some dirt that seems to be... moving? If you lift up that trash you'll find a mole in the dirt! Moles like to dig around underground and look for stuff to grab (like trash). They're the raccoons of the ground.",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19905,6 +20222,7 @@
     },
     "Mona Lisa": {
         "id": "R20005",
+        "character": "\u517c",
         "mnemonic": "This radical looks like a combination of the brush radical and the beauty kanji (\u7f8e). So what's something beautiful you can paint with a brush? The most famous is probably the Mona Lisa.",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19933,6 +20251,7 @@
     },
     "Righteousness": {
         "id": "R20006",
+        "character": "\u7fa9",
         "mnemonic": "The horns on the king give him an ego. Which in turn gives him a sense of righteousness. He shouldn't act all righteous like that, but I suppose it's what kings do. If you had horns and a big ego, you'd probably think you were the epitome of righteousness too.",
         "difficulty": "painful\n",
         "level": "level-20\n",
@@ -19957,6 +20276,7 @@
     },
     "Angle": {
         "id": "R21001",
+        "character": "\u89d2",
         "mnemonic": "This radical is the same as the kanji. It means angle.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -19977,6 +20297,7 @@
     },
     "Blade": {
         "id": "R21002",
+        "character": "\u5203",
         "mnemonic": "You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of blade to cut someone. Sword, knife, whatever, as long as it's a blade.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -19997,6 +20318,7 @@
     },
     "Half": {
         "id": "R21003",
+        "character": "\u534a",
         "mnemonic": "This radical is the same as the kanji. It means half.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20017,6 +20339,7 @@
     },
     "Mohawk": {
         "id": "R21004",
+        "character": "\u5547",
         "mnemonic": "You have something old on your head that's standing up. What is this thing? An awesome mohawk. You've had it so long it's looking pretty old... but still awesome.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20041,6 +20364,7 @@
     },
     "Next": {
         "id": "R21005",
+        "character": "\u6b21",
         "mnemonic": "This radical is the same as the kanji. It means next.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20073,6 +20397,7 @@
     },
     "Number": {
         "id": "R21006",
+        "character": "\u756a",
         "mnemonic": "This radical is the same as the kanji, but \"number in a series\" is too long. Let's shorten it to number.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20093,6 +20418,7 @@
     },
     "Simultaneous": {
         "id": "R21007",
+        "character": "\u6589",
         "mnemonic": "If you're writing while looking at the moon, you can bet someone else is doing it too. People have a habit of looking at the moon simultaneously.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20117,6 +20443,7 @@
     },
     "Spear": {
         "id": "R21008",
+        "character": "\u77db",
         "mnemonic": "Your mama is carrying some kind of elaborate weapon. You look closely and see that it's a spear. The pointy end is to the right, and there are some decorations hanging off it. It's a very fancy spear, and you wonder where your mama got it.",
         "difficulty": "death\n",
         "level": "level-21\n",
@@ -20141,6 +20468,7 @@
     },
     "Ability": {
         "id": "R22001",
+        "character": "\u80fd",
         "mnemonic": "This radical is the same as the kanji. It means ability.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20161,6 +20489,7 @@
     },
     "Allocate": {
         "id": "R22002",
+        "character": "\u5145",
         "mnemonic": "You have some legs and you need to put them in the trash. But you'll get caught if you put them in one trash can. Quick, cut them up and allocate them to different trash cans around the city. Then you'll never get caught.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20181,6 +20510,7 @@
     },
     "Bathtub": {
         "id": "R22003",
+        "character": "\u5442",
         "mnemonic": "See the dude sitting inside the box? His head is sticking out the top. That's a bathtub he's sitting in.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20201,6 +20531,7 @@
     },
     "Cheap": {
         "id": "R22004",
+        "character": "\u5b89",
         "mnemonic": "This radical is the same as the kanji. It means cheap.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20213,6 +20544,7 @@
     },
     "Clothes": {
         "id": "R22005",
+        "character": "\u8863",
         "mnemonic": "You just have to know what\u2019s under these locked lids, so you kick them until they break open to reveal a whole bunch of\u2026 clothes. \u201cWow, free clothes!\u201d you think, just as airport security arrive to take you away.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20265,6 +20597,7 @@
     },
     "Dollar": {
         "id": "R22006",
+        "character": "\u5f17",
         "mnemonic": "This is a squiggle with two lines through it. Hmmm doesn't that seem familiar? It should, because it's the dollar symbol: $. Well, close enough. Just look at this and think, ah yes, a totally normal American dollar.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20281,6 +20614,7 @@
     },
     "Football": {
         "id": "R22007",
+        "character": "\u7230",
         "mnemonic": "Your friend is on the ground and you step on him with your cleat. There is no friendship here. This is a true sport you're playing. This is football.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20305,6 +20639,7 @@
     },
     "Icicle": {
         "id": "R22008",
+        "character": "\u4e2c",
         "mnemonic": "This ice is in the shape of a stick. It's an icicle!",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20333,6 +20668,7 @@
     },
     "Peace": {
         "id": "R22009",
+        "character": "\u5e73",
         "mnemonic": "This radical is the same as the kanji. It means peace.",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20353,6 +20689,7 @@
     },
     "Saw": {
         "id": "R22010",
+        "character": "\u5de9",
         "mnemonic": "You're constructing a table. On the table is a drop of blood, which is your blood. This is from cutting yourself on the saw that you're using to make the table. Imagine yourself cutting yourself with the saw by accident. Ouch!",
         "difficulty": "death\n",
         "level": "level-22\n",
@@ -20369,6 +20706,7 @@
     },
     "Demon": {
         "id": "R23001",
+        "character": "\u9b3c",
         "mnemonic": "This is a demon. Can you see him? He has a crazy face and some tentacles holding something demonic. Try to figure out how to see a demon. But don't see him too good, cause then he'll come out of your computer and eat you.",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20401,6 +20739,7 @@
     },
     "Leather": {
         "id": "R23002",
+        "character": "\u9769",
         "mnemonic": "When I look at this radical, I see the body and (mainly) head of a bull. What are bulls made of? They're made of leather.",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20421,6 +20760,7 @@
     },
     "Morning": {
         "id": "R23003",
+        "character": "\ud842\udd9d",
         "mnemonic": "This is the left side of the kanji \u671d, so we'll call it morning too.",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20445,6 +20785,7 @@
     },
     "Restaurant": {
         "id": "R23004",
+        "character": "\u4ead",
         "mnemonic": "You see a lid on the street with a drawing of a forehead and a mouth on it. Hmm strange. You pick the lid up and reveal... a secret, underground restaurant! The mouth + forehead combo was secret street restaurant code for, \"There's good eats down in this here restaurant hole!\"",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20461,6 +20802,7 @@
     },
     "Road": {
         "id": "R23005",
+        "character": "\u9053",
         "mnemonic": "This radical is the same as the kanji. It means road.",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20473,6 +20815,7 @@
     },
     "Vines": {
         "id": "R23006",
+        "character": "\u4e29",
         "mnemonic": "This radical is made up of two vines hanging down and a branch linking them together. Imagine swinging on these Tarzan style. AaaaAA aAA AAAaaaa!",
         "difficulty": "death\n",
         "level": "level-23\n",
@@ -20493,6 +20836,7 @@
     },
     "Accept": {
         "id": "R24001",
+        "character": "\u53d7",
         "mnemonic": "This radical is the same as the kanji. It means accept.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20505,6 +20849,7 @@
     },
     "Control": {
         "id": "R24002",
+        "character": "\u5236",
         "mnemonic": "This radical is the same as the kanji. It means control.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20517,6 +20862,7 @@
     },
     "Dawn": {
         "id": "R24003",
+        "character": "\u65e6",
         "mnemonic": "The sun is coming up out of the ground, making this radical dawn. Of course, don't confuse this with dusk! You can do that by thinking that the sun is an optimistic and bright thing, so it tends to come up, not go down. (Also, Japan is the Land of the Rising Sun. I mean come on!)",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20561,6 +20907,7 @@
     },
     "Death Star": {
         "id": "R24004",
+        "character": "https://files.wanikani.com/dgeoshskssv0r7bnmaxj0o4lt1el",
         "mnemonic": "There is a hat covering the moon and it's holding a knife. Wait, that's no moon. It's a space station! It's the Death Star! It's pretending to be a moon under that hat. And it's armed! Don't let the Death Star stab your planet to death.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20585,6 +20932,7 @@
     },
     "Guest": {
         "id": "R24005",
+        "character": "\u5ba2",
         "mnemonic": "This radical is the same as the kanji. It means guest.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20597,6 +20945,7 @@
     },
     "Korea": {
         "id": "R24006",
+        "character": "\u97cb",
         "mnemonic": "There are five mouths eating cow at Korean BBQ. Korea is famous for their delicious BBQ, and you need a lot of people to eat all that beef. At least five people. (Get it? Five people!) That's why this radical is Korea.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20625,6 +20974,7 @@
     },
     "Nature": {
         "id": "R24007",
+        "character": "\u7136",
         "mnemonic": "This radical is the same as the kanji. It means nature.",
         "difficulty": "death\n",
         "level": "level-24\n",
@@ -20637,6 +20987,7 @@
     },
     "Both": {
         "id": "R25001",
+        "character": "\u4e21",
         "mnemonic": "This radical is the same as the kanji. It means both.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20649,6 +21000,7 @@
     },
     "Capital": {
         "id": "R25002",
+        "character": "\u4eac",
         "mnemonic": "This radical is the same as the kanji. It means capital.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20685,6 +21037,7 @@
     },
     "Friend": {
         "id": "R25003",
+        "character": "\u53cb",
         "mnemonic": "This radical is the same as the kanji. It means friend.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20701,6 +21054,7 @@
     },
     "Greenhouse": {
         "id": "R25004",
+        "character": "\u83ab",
         "mnemonic": "Flowers need the sun to get big. To help them grow as big as possible, we put them in the greenhouse.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20745,6 +21099,7 @@
     },
     "Lifeguard": {
         "id": "R25005",
+        "character": "\u5193",
         "mnemonic": "You have a task to save two kinds of lives. Who saves two kinds of lives? A lifeguard. They save the lives of people drowning, and then the lives of the people who go to try to help them. Picture a lifeguard saving the lives of two people at once. What a hero!",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20769,6 +21124,7 @@
     },
     "Mantis": {
         "id": "R25006",
+        "character": "\u79b9",
         "mnemonic": "This radical has slide, head, and insect in it. Which insect will slide your head off in a matter of seconds and then eat it? The fearsome praying mantis.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20785,6 +21141,7 @@
     },
     "Mix": {
         "id": "R25007",
+        "character": "\u4ea4",
         "mnemonic": "This radical is the same as the kanji. It means mix.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20809,6 +21166,7 @@
     },
     "Wedding": {
         "id": "R25008",
+        "character": "\u752b",
         "mnemonic": "This radical looks like someone wearing a giant dress who has a tear in their eye. This is a person at their wedding. That explains the big dress and the tear (of happiness!) in their eye.",
         "difficulty": "death\n",
         "level": "level-25\n",
@@ -20841,6 +21199,7 @@
     },
     "Announce": {
         "id": "R26001",
+        "character": "\u544a",
         "mnemonic": "This radical is the same as the kanji. It means announce.",
         "difficulty": "death\n",
         "level": "level-26\n",
@@ -20857,6 +21216,7 @@
     },
     "Chapter": {
         "id": "R26002",
+        "character": "\u7ae0",
         "mnemonic": "This radical is the same as the kanji. It means chapter.",
         "difficulty": "death\n",
         "level": "level-26\n",
@@ -20873,6 +21233,7 @@
     },
     "Comb": {
         "id": "R26003",
+        "character": "https://files.wanikani.com/43evwoxebvriistgr2ti2lvnwjkd",
         "mnemonic": "Look at all those little things sticking out. You could easily use it to comb your hair.",
         "difficulty": "death\n",
         "level": "level-26\n",
@@ -20901,6 +21262,7 @@
     },
     "Ten Thousand": {
         "id": "R26004",
+        "character": "\u4e07",
         "mnemonic": "This radical is the same as the kanji. It means ten thousand.",
         "difficulty": "death\n",
         "level": "level-26\n",
@@ -20921,6 +21283,7 @@
     },
     "Warehouse": {
         "id": "R26005",
+        "character": "\u5009",
         "mnemonic": "You put your hat on the ground and a flag in your mouth. You're letting the world know that they can use your mouth as a warehouse. Your gullet is open for storage business. Need to store some ice cream? Please use my mouth warehouse. ;D ;D ;D",
         "difficulty": "death\n",
         "level": "level-26\n",
@@ -20941,6 +21304,7 @@
     },
     "Call": {
         "id": "R27001",
+        "character": "\u53ec",
         "mnemonic": "If you have a sword in your mouth you need to call upon someone to help! That thing should not be in there. Call someone over right now! Go ahead, call them! Let\u2019s hope they can get that sword out of your mouth. ",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -20977,6 +21341,7 @@
     },
     "Change": {
         "id": "R27002",
+        "character": "\u5316",
         "mnemonic": "This radical is the same as the kanji. It means change.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -20997,6 +21362,7 @@
     },
     "Exit": {
         "id": "R27003",
+        "character": "\u51fa",
         "mnemonic": "This radical is the same as the kanji. It means exit.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21021,6 +21387,7 @@
     },
     "Farming": {
         "id": "R27004",
+        "character": "\u8fb2",
         "mnemonic": "This radical is the same as the kanji. It means farming.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21033,6 +21400,7 @@
     },
     "Peoples": {
         "id": "R27005",
+        "character": "\u6c11",
         "mnemonic": "This radical is the same as the kanji. It means peoples.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21045,6 +21413,7 @@
     },
     "Rake": {
         "id": "R27006",
+        "character": "\u800c",
         "mnemonic": "If you look at it, you can see it's a weird looking rake.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21073,6 +21442,7 @@
     },
     "Substitute": {
         "id": "R27007",
+        "character": "\u4ee3",
         "mnemonic": "This radical is the same as the kanji. It means substitute.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21089,6 +21459,7 @@
     },
     "Surplus": {
         "id": "R27008",
+        "character": "\u4f59",
         "mnemonic": "This radical is the same as the kanji. It means surplus.",
         "difficulty": "death\n",
         "level": "level-27\n",
@@ -21121,6 +21492,7 @@
     },
     "Barracks": {
         "id": "R28001",
+        "character": "\u5c6f",
         "mnemonic": "You stick an umbrella with a big slide on it into the mountainside to make your barracks. You're going to use these barracks to teach soldiers how to slide slides and hide from bad weather. It's ingenious!",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21145,6 +21517,7 @@
     },
     "Before": {
         "id": "R28002",
+        "character": "\u524d",
         "mnemonic": "The meaning of this radical is the same as the alternative kanji meaning. It means before.",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21161,6 +21534,7 @@
     },
     "Giant": {
         "id": "R28003",
+        "character": "\u5de8",
         "mnemonic": "If you were to look at a giant from above, this is what you would see. Do you see the head and two arms? The giant is facing towards the right.",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21181,6 +21555,7 @@
     },
     "Lovely": {
         "id": "R28004",
+        "character": "\u9e97",
         "mnemonic": "I don't know what this thing is, but it's lovely. It has two eyes, a funny mouth, and a scraggly beard. It's lovely, and nothing else, okay? So remember it that way.",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21193,6 +21568,7 @@
     },
     "Odd": {
         "id": "R28005",
+        "character": "\u5947",
         "mnemonic": "A big lip ring is a pretty odd thing to have. If it's big, it'll stretch your lip out, which is odd too.",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21225,6 +21601,7 @@
     },
     "Specialty": {
         "id": "R28006",
+        "character": "\u5c02",
         "mnemonic": "This radical is the same as the kanji. It means specialty.",
         "difficulty": "death\n",
         "level": "level-28\n",
@@ -21249,6 +21626,7 @@
     },
     "Above": {
         "id": "R29001",
+        "character": "\u4e0a",
         "mnemonic": "This radical is the same as the kanji. It means above.",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21281,6 +21659,7 @@
     },
     "Blame": {
         "id": "R29002",
+        "character": "\u8cac",
         "mnemonic": "This radical is the same as the kanji. It means blame.",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21305,6 +21684,7 @@
     },
     "Charcoal": {
         "id": "R29003",
+        "character": "\u5c1e",
         "mnemonic": "When the sun gets small, you need to heat up by throwing some big horns in the fire. This turns into charcoal. Nice, toasty charcoal that keeps you warm when the sun gets small.",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21333,6 +21713,7 @@
     },
     "District": {
         "id": "R29004",
+        "character": "\u533a",
         "mnemonic": "This radical is the same as the kanji. It means district.",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21357,6 +21738,7 @@
     },
     "Mysterious": {
         "id": "R29005",
+        "character": "\u7384",
         "mnemonic": "What's under this lid that smells like poop? I don't know! How mysterious.",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21381,6 +21763,7 @@
     },
     "Nose": {
         "id": "R29006",
+        "character": "\u4e59",
         "mnemonic": "If you look at this radical right, you'll see a NOSE (with a squinty eye on the left).",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21397,6 +21780,7 @@
     },
     "Servant": {
         "id": "R29007",
+        "character": "\u81e3",
         "mnemonic": "Hey, it's that giant you learned before. But... but its arms are chained. They're chained because you caught the giant and now it's your servant!",
         "difficulty": "death\n",
         "level": "level-29\n",
@@ -21437,6 +21821,7 @@
     },
     "Hills": {
         "id": "R30001",
+        "character": "https://files.wanikani.com/l5nl91im7fvbcqjuwg1ovpenb82h",
         "mnemonic": "See the rolling hills with the road going off into the background to another hill? That's why this is the hills radical.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21457,6 +21842,7 @@
     },
     "Lineage": {
         "id": "R30002",
+        "character": "\u7cfb",
         "mnemonic": "A thread goes through the ground. It traces your lineage. You follow the thread all the way back through many generations, to find out your lineage involves Genghis Khan. Feel the thread and the dirt in your hand and actually trace the lineage.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21481,6 +21867,7 @@
     },
     "North": {
         "id": "R30003",
+        "character": "\u5317",
         "mnemonic": "This radical is the same as the kanji. It means north.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21493,6 +21880,7 @@
     },
     "One Sided": {
         "id": "R30004",
+        "character": "\u7247",
         "mnemonic": "This looks a bit like a waiter walking toward you with a platter in their hands... but wait. It's only half of a waiter. It's a one sided waiter!",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21509,6 +21897,7 @@
     },
     "Oversee": {
         "id": "R30005",
+        "character": "\u76e3",
         "mnemonic": "This radical is the same as the kanji. It means oversee.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21529,6 +21918,7 @@
     },
     "Pirate": {
         "id": "R30006",
+        "character": "\u5198",
         "mnemonic": "This kind of looks like big (\u5927), which I think you'll remember you learned by pretending this was a big guy. This big guy, however, has a funny leg... a peg leg. That makes him a pirate. Also, his arms are in the \"YARRRR\" position.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21545,6 +21935,7 @@
     },
     "Turtle Shell": {
         "id": "R30007",
+        "character": "\u7532",
         "mnemonic": "Poor turtles. We don't like them here. This is a turtle shell. See the shell with just a tail remaining? It's the only thing we didn't remove off the turtle. It's just a shell with a tail, so basically it's just a turtle shell.",
         "difficulty": "death\n",
         "level": "level-30\n",
@@ -21565,6 +21956,7 @@
     },
     "Bully": {
         "id": "R31001",
+        "character": "\u9b32",
         "mnemonic": "He's a creeper and he's Four-T (forty). If someone like this creeps on you, they're just a bully. When you get to forty you aren't supposed to creep on people anymore. You bully. You jerk.",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21581,6 +21973,7 @@
     },
     "Fang": {
         "id": "R31002",
+        "character": "\u7259",
         "mnemonic": "Imagine this in your mouth. It's one tooth that sticks out more than any other. It's your fang. Can you see this sticking out of a wolf mouth instead? Try that if you can't picture yourself with a fang this cool.",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21617,6 +22010,7 @@
     },
     "Guy": {
         "id": "R31003",
+        "character": "\u90ce",
         "mnemonic": "This radical is the same as the kanji. It means guy.",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21633,6 +22027,7 @@
     },
     "Library": {
         "id": "R31004",
+        "character": "\u6241",
         "mnemonic": "There's a door over the bookcase. That makes this a library!",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21653,6 +22048,7 @@
     },
     "Line Up": {
         "id": "R31005",
+        "character": "\u4e26",
         "mnemonic": "This radical is the same as the kanji. It means line up.",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21669,6 +22065,7 @@
     },
     "Rocket": {
         "id": "R31006",
+        "character": "\u79bb",
         "mnemonic": "See how there\u2019s a lid on top of the treasure chest? That\u2019s because the whole thing is a rocket which contains all the necessary items (treasures) to live in outer space. The bottom part of the radical shows you that this is a top secret project, though, so keep this private in your own head.",
         "difficulty": "hell\n",
         "level": "level-31\n",
@@ -21685,6 +22082,7 @@
     },
     "Cat Pirate": {
         "id": "R32001",
+        "character": "\u536c",
         "mnemonic": "See the CP in this radical? It stands for Cat Pirate. Meoaarrrr.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21705,6 +22103,7 @@
     },
     "Certain": {
         "id": "R32002",
+        "character": "\u5fc5",
         "mnemonic": "This radical is the same as the kanji. It means certain.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21729,6 +22128,7 @@
     },
     "Cottage": {
         "id": "R32003",
+        "character": "\u820e",
         "mnemonic": "This radical looks like a little house, one that would be perfect in the middle of nowhere, surrounded by bamboo and a little mountain stream. See the roof and the open door? That's why this is the cottage radical.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21749,6 +22149,7 @@
     },
     "Elf": {
         "id": "R32004",
+        "character": "https://files.wanikani.com/xtpqax3w4v50hbunqkij53oruddj",
         "mnemonic": "You see a leaf ear, better known as an elf! Elves are just humans who have ears that are pointy like leaves.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21765,6 +22166,7 @@
     },
     "Night": {
         "id": "R32005",
+        "character": "\u591c",
         "mnemonic": "This radical is the same as the kanji. It means night.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21777,6 +22179,7 @@
     },
     "Same": {
         "id": "R32006",
+        "character": "\u540c",
         "mnemonic": "This radical is the same as the kanji. It means same.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21805,6 +22208,7 @@
     },
     "Spider": {
         "id": "R32007",
+        "character": "\u590b",
         "mnemonic": "If you look closely and carefully, sometimes you can see some private legs in winter. Whose legs? Spider legs! It's too cold for them in winter, so they hide in cracks and crevices, but sometimes you can see their little leggies sticking out anyway.",
         "difficulty": "hell\n",
         "level": "level-32\n",
@@ -21829,6 +22233,7 @@
     },
     "Coral": {
         "id": "R33001",
+        "character": "\u4e1e",
         "mnemonic": "In the water is a barb on the ground. It's coral. Coral may look pretty, but if you slip in the water and step on it, you're gonna get scratched up. That stuff is roooough.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21841,6 +22246,7 @@
     },
     "Inside": {
         "id": "R33002",
+        "character": "\u5185",
         "mnemonic": "This radical is the same as the kanji. It means inside.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21853,6 +22259,7 @@
     },
     "Interval": {
         "id": "R33003",
+        "character": "\u9593",
         "mnemonic": "This radical is the same as the kanji. It means interval.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21865,6 +22272,7 @@
     },
     "Receive": {
         "id": "R33004",
+        "character": "\u4eab",
         "mnemonic": "Put a lid on the mouth of a child and what will you receive? At best, a very unimpressed look from that poor child. If you want to receive nice things, putting lids on children\u2019s mouths isn\u2019t the way to go about it.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21889,6 +22297,7 @@
     },
     "Storehouse": {
         "id": "R33005",
+        "character": "\u8535",
         "mnemonic": "Your flowers become your servants. You plant them, you water them, you bring them up, then you cut them down and put them in your storehouse. They do what you want because they become YOUR servants, not the other way around. That's why you can tell them to sit in the storehouse where they wait until you come to eat them.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21905,6 +22314,7 @@
     },
     "Syrup": {
         "id": "R33006",
+        "character": "\u55bf",
         "mnemonic": "The products trees make? That's syrup. Delicious maple syrup, for example. Mmmm!",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21929,6 +22339,7 @@
     },
     "Wide": {
         "id": "R33007",
+        "character": "\u5e83",
         "mnemonic": "This radical is the same as the kanji. It means wide.",
         "difficulty": "hell\n",
         "level": "level-33\n",
@@ -21945,6 +22356,7 @@
     },
     "Boot": {
         "id": "R34001",
+        "character": "\u5807",
         "mnemonic": "There's something made of leather with some dirt on the bottom of it. It's a boot!",
         "difficulty": "hell\n",
         "level": "level-34\n",
@@ -21961,6 +22373,7 @@
     },
     "Catapult": {
         "id": "R34002",
+        "character": "\u5449",
         "mnemonic": "See the rock in the catapult? It even has little legs to hold it steady so it can catapult better.",
         "difficulty": "hell\n",
         "level": "level-34\n",
@@ -21981,6 +22394,7 @@
     },
     "Claw": {
         "id": "R34003",
+        "character": "\u722a",
         "mnemonic": "This looks like a claw of some kind already, making it quite easy!",
         "difficulty": "hell\n",
         "level": "level-34\n",
@@ -21993,6 +22407,7 @@
     },
     "Member": {
         "id": "R34004",
+        "character": "\u54e1",
         "mnemonic": "This radical is the same as the kanji. It means member.",
         "difficulty": "hell\n",
         "level": "level-34\n",
@@ -22005,6 +22420,7 @@
     },
     "Slice": {
         "id": "R34005",
+        "character": "\u4ea5",
         "mnemonic": "See the guy? See how he was CUT IN HALF??? That must have been one heckuva slice to do that to a person.",
         "difficulty": "hell\n",
         "level": "level-34\n",
@@ -22033,6 +22449,7 @@
     },
     "Belt": {
         "id": "R35001",
+        "character": "\u5e2f",
         "mnemonic": "This radical is the same as the kanji. It means belt.",
         "difficulty": "hell\n",
         "level": "level-35\n",
@@ -22045,6 +22462,7 @@
     },
     "Commander": {
         "id": "R35002",
+        "character": "\u5c06",
         "mnemonic": "Who wears cleats and takes your measurements for so long that icicles start forming on your body? Your commander. The commander is very, very particular. And everyone knows the commander has to get everything exactly right. So taking your measurements takes SO long that icicles grow out of your nose. But that's okay. You have to impress your new commander, darn it!",
         "difficulty": "hell\n",
         "level": "level-35\n",
@@ -22065,6 +22483,7 @@
     },
     "Sake": {
         "id": "R35003",
+        "character": "\u70ba",
         "mnemonic": "This radical looks like a big, weird caterpillar bug thing. But, for the sake of everyone's sanity, we'll just call it sake, okay? Keep in mind, we mean sake as in \"for the sake of X,\" not as in the alcoholic beverage!",
         "difficulty": "hell\n",
         "level": "level-35\n",
@@ -22081,6 +22500,7 @@
     },
     "Shuriken": {
         "id": "R35004",
+        "character": "\u5f51",
         "mnemonic": "See the shuriken stuck into the ground? In case you don't know, a shuriken is just a throwing star. Awesome ninjas use them. That's what's in this radical.",
         "difficulty": "hell\n",
         "level": "level-35\n",
@@ -22093,6 +22513,7 @@
     },
     "Turtle": {
         "id": "R35005",
+        "character": "\u4e80",
         "mnemonic": "There's a turtle shell inside this turtle radical. You can tell because there's a whole head and tail on this thing, making it a real turtle, not just a turtle shell.",
         "difficulty": "hell\n",
         "level": "level-35\n",
@@ -22109,6 +22530,7 @@
     },
     "Bright": {
         "id": "R36001",
+        "character": "\u660e",
         "mnemonic": "This radical is the same as the kanji. It means bright.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22125,6 +22547,7 @@
     },
     "Dance": {
         "id": "R36002",
+        "character": "\u821b",
         "mnemonic": "You see a cow in the evening. You get closer and realize it's doing a dance. All cows dance in the evening. Can you picture it? The cow is dancing, so majestic, in the setting sunlight.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22149,6 +22572,7 @@
     },
     "Departure": {
         "id": "R36003",
+        "character": "\u767a",
         "mnemonic": "This radical is the same as the kanji. It means departure.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22161,6 +22585,7 @@
     },
     "South": {
         "id": "R36004",
+        "character": "\u5357",
         "mnemonic": "This radical is the same as the kanji. It means south.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22173,6 +22598,7 @@
     },
     "Sweet": {
         "id": "R36005",
+        "character": "\u7518",
         "mnemonic": "This radical is the sun with its hair sticking out. Why is the sun's hair sticking out like this? It ate wayyy too many sweet things causing it to have too much energy, making its hair stand on end. It also kind of looks like a sweet, sweet candy with the wrapper sticking out. Remember it how you'd like.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22201,6 +22627,7 @@
     },
     "Valuable": {
         "id": "R36006",
+        "character": "\u8cb4",
         "mnemonic": "This radical is the same as the kanji. It means valuable.",
         "difficulty": "hell\n",
         "level": "level-36\n",
@@ -22213,6 +22640,7 @@
     },
     "Omen": {
         "id": "R37001",
+        "character": "\u5146",
         "mnemonic": "There's an explosion around your legs. It was just as the fortune teller warned. This is the omen she was talking about. Think about what happens after the omen hits. What horrible fortune teller magic will happen???",
         "difficulty": "hell\n",
         "level": "level-37\n",
@@ -22245,6 +22673,7 @@
     },
     "Prize": {
         "id": "R37002",
+        "character": "\u8cde",
         "mnemonic": "This radical is the same as the kanji. It means prize.",
         "difficulty": "hell\n",
         "level": "level-37\n",
@@ -22257,6 +22686,7 @@
     },
     "Skewer": {
         "id": "R37003",
+        "character": "\u4e32",
         "mnemonic": "There's a stick going through some juicy meat. This is a skewer.",
         "difficulty": "hell\n",
         "level": "level-37\n",
@@ -22273,6 +22703,7 @@
     },
     "Violence": {
         "id": "R37004",
+        "character": "\u66b4",
         "mnemonic": "This radical is the same as the kanji. It means violence.",
         "difficulty": "hell\n",
         "level": "level-37\n",
@@ -22285,6 +22716,7 @@
     },
     "Wrap": {
         "id": "R37005",
+        "character": "\u5305",
         "mnemonic": "Yourself (oneself) is in prison. Look at the prison as it wraps around you. It wraps you up and holds you tight. That's why this is the wrap radical!",
         "difficulty": "hell\n",
         "level": "level-37\n",
@@ -22317,6 +22749,7 @@
     },
     "Have": {
         "id": "R38001",
+        "character": "\u6709",
         "mnemonic": "This radical is the same as the kanji. It means have.",
         "difficulty": "hell\n",
         "level": "level-38\n",
@@ -22341,6 +22774,7 @@
     },
     "Hot Pepper": {
         "id": "R38002",
+        "character": "\u8f9f",
         "mnemonic": "You see something with a flag on it and put it in your mouth. It was spicy! You look at the little flag and it says... hot pepper.",
         "difficulty": "hell\n",
         "level": "level-38\n",
@@ -22365,6 +22799,7 @@
     },
     "Prefecture": {
         "id": "R38003",
+        "character": "\u770c",
         "mnemonic": "This radical is the same as the kanji. It means prefecture.",
         "difficulty": "hell\n",
         "level": "level-38\n",
@@ -22377,6 +22812,7 @@
     },
     "Think": {
         "id": "R38004",
+        "character": "\u601d",
         "mnemonic": "This radical is the same as the kanji. It means think.",
         "difficulty": "hell\n",
         "level": "level-38\n",
@@ -22389,6 +22825,7 @@
     },
     "Tooth": {
         "id": "R38005",
+        "character": "\u6b6f",
         "mnemonic": "This radical is the same as the kanji. It means tooth.",
         "difficulty": "hell\n",
         "level": "level-38\n",
@@ -22405,6 +22842,7 @@
     },
     "Buddy": {
         "id": "R39001",
+        "character": "\u541b",
         "mnemonic": "This radical is the same as the kanji. It means buddy.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22421,6 +22859,7 @@
     },
     "Former": {
         "id": "R39002",
+        "character": "\u65e7",
         "mnemonic": "This radical is the same as the kanji. It means former.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22437,6 +22876,7 @@
     },
     "Hill": {
         "id": "R39003",
+        "character": "\u5ca1",
         "mnemonic": "This radical is the same as the kanji. It means hill.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22461,6 +22901,7 @@
     },
     "Nurse": {
         "id": "R39004",
+        "character": "\u342e",
         "mnemonic": "This radical is made up of blackjack and clothes with the six kanji on top. If you see six people playing blackjack and wearing the same clothes you should know that they're all nurses. Nurses play blackjack together to cool down between shifts and they usually don't have time to change out of their uniforms. That's why this radical is nurse.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22485,6 +22926,7 @@
     },
     "Reality": {
         "id": "R39005",
+        "character": "\u771f",
         "mnemonic": "This radical is the same as the kanji. It means reality.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22501,6 +22943,7 @@
     },
     "Scroll": {
         "id": "R39006",
+        "character": "\u5dfb",
         "mnemonic": "This radical is the same as the kanji. It means scroll.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22513,6 +22956,7 @@
     },
     "Sky": {
         "id": "R39007",
+        "character": "\u7a7a",
         "mnemonic": "This radical is the same as the kanji. It means sky.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22525,6 +22969,7 @@
     },
     "Three": {
         "id": "R39008",
+        "character": "\u4e09",
         "mnemonic": "This radical is the same as the kanji. It means three.",
         "difficulty": "hell\n",
         "level": "level-39\n",
@@ -22541,6 +22986,7 @@
     },
     "Employ": {
         "id": "R40001",
+        "character": "\u96c7",
         "mnemonic": "This radical is the same as the kanji. It means employ.",
         "difficulty": "hell\n",
         "level": "level-40\n",
@@ -22553,6 +22999,7 @@
     },
     "Every": {
         "id": "R40002",
+        "character": "\u6bce",
         "mnemonic": "This radical is the same as the kanji. It means every.",
         "difficulty": "hell\n",
         "level": "level-40\n",
@@ -22577,6 +23024,7 @@
     },
     "Preserve": {
         "id": "R40003",
+        "character": "\u4fdd",
         "mnemonic": "This radical is the same as the kanji. It means preserve.",
         "difficulty": "hell\n",
         "level": "level-40\n",
@@ -22589,6 +23037,7 @@
     },
     "Rejoice": {
         "id": "R40004",
+        "character": "\u559c",
         "mnemonic": "This radical is the same as the kanji. It means rejoice.",
         "difficulty": "hell\n",
         "level": "level-40\n",
@@ -22601,6 +23050,7 @@
     },
     "Wheat": {
         "id": "R40005",
+        "character": "\u9ea6",
         "mnemonic": "This radical is the same as the kanji, but you learned that a really long time ago, so here's a reminder of the mnemonic, just in case:",
         "difficulty": "hell\n",
         "level": "level-40\n",
@@ -22613,6 +23063,7 @@
     },
     "Cactus": {
         "id": "R41001",
+        "character": "https://files.wanikani.com/qllq7st7fa0cld22teqa9d9x0zbt",
         "mnemonic": "See the cactus coming out of the ground? It's happy to see you!",
         "difficulty": "paradise\n",
         "level": "level-41\n",
@@ -22625,6 +23076,7 @@
     },
     "Proclaim": {
         "id": "R41002",
+        "character": "\u5ba3",
         "mnemonic": "This radical is the same as the kanji. It means proclaim.",
         "difficulty": "paradise\n",
         "level": "level-41\n",
@@ -22637,6 +23089,7 @@
     },
     "Showy": {
         "id": "R41003",
+        "character": "\u83ef",
         "mnemonic": "This radical is the same as the kanji. It means showy.",
         "difficulty": "paradise\n",
         "level": "level-41\n",
@@ -22649,6 +23102,7 @@
     },
     "Signpost": {
         "id": "R41004",
+        "character": "\u5906",
         "mnemonic": "This is a post with signs on it. And on top is a winter marker, showing that if you go north it's winter up there. The signs say things like \"Narnia \u2191\" and \"Meridell \u2190\" and \"Bananaland \u2192\" so you know it's a signpost.",
         "difficulty": "paradise\n",
         "level": "level-41\n",
@@ -22669,6 +23123,7 @@
     },
     "Wife": {
         "id": "R41005",
+        "character": "\u59bb",
         "mnemonic": "This radical is the same as the kanji. It means wife.",
         "difficulty": "paradise\n",
         "level": "level-41\n",
@@ -22681,6 +23136,7 @@
     },
     "Bone": {
         "id": "R42001",
+        "character": "\u9aa8",
         "mnemonic": "This radical is the same as the kanji. It means bone.",
         "difficulty": "paradise\n",
         "level": "level-42\n",
@@ -22697,6 +23153,7 @@
     },
     "Melon": {
         "id": "R42002",
+        "character": "\u74dc",
         "mnemonic": "This is a melon. Imagine a melon cut in half, and you're looking at its insides from the side. See those precious private melon parts? You're gonna keep those for yourself, because melons are delicious and not for sharing.",
         "difficulty": "paradise\n",
         "level": "level-42\n",
@@ -22721,6 +23178,7 @@
     },
     "Satellite": {
         "id": "R42003",
+        "character": "https://files.wanikani.com/v61hmex1837301x4dm1hehpg1wx4",
         "mnemonic": "Look at this radical. Can you see it floating in space? Can you see the antennae and reflectors? That's because it's a satellite.",
         "difficulty": "paradise\n",
         "level": "level-42\n",
@@ -22741,6 +23199,7 @@
     },
     "Shop": {
         "id": "R42004",
+        "character": "\u5c4b",
         "mnemonic": "We already have a roof radical, so we're going to use the secondary kanji meaning for this radical. It's shop, remember?",
         "difficulty": "paradise\n",
         "level": "level-42\n",
@@ -22753,6 +23212,7 @@
     },
     "Badger": {
         "id": "R43001",
+        "character": "\u8c78",
         "mnemonic": "You know the animal radical. This is just like that with a little extra. It's an animal already... which means all you have to do is remember what kind of animal. In this case, it's a badger.",
         "difficulty": "paradise\n",
         "level": "level-43\n",
@@ -22765,6 +23225,7 @@
     },
     "Imperial": {
         "id": "R43002",
+        "character": "\u9f8d",
         "mnemonic": "Stand up on the moon so you can look down on your countries. The thing with all the lines and borders are the borders of all the countries you rule, for you are an imperial.",
         "difficulty": "paradise\n",
         "level": "level-43\n",
@@ -22781,6 +23242,7 @@
     },
     "Plow": {
         "id": "R43003",
+        "character": "\u8012",
         "mnemonic": "You're sliding some dirt around with a tree you cut down. This contraption you've made is called a plow. Use it to push dirt around!",
         "difficulty": "paradise\n",
         "level": "level-43\n",
@@ -22801,6 +23263,7 @@
     },
     "Dragon": {
         "id": "R44001",
+        "character": "\u7adc",
         "mnemonic": "A turtle that stands up isn't a turtle anymore. It's evolved into a monster. What kind of monster? A dragon! Rawwwr.",
         "difficulty": "paradise\n",
         "level": "level-44\n",
@@ -22817,6 +23280,7 @@
     },
     "Wind": {
         "id": "R44002",
+        "character": "\u98a8",
         "mnemonic": "This radical is the same as the kanji. It means wind.",
         "difficulty": "paradise\n",
         "level": "level-44\n",
@@ -22837,6 +23301,7 @@
     },
     "Protect": {
         "id": "R45001",
+        "character": "\u5b88",
         "mnemonic": "This radical is the same as the kanji. It means protect.",
         "difficulty": "paradise\n",
         "level": "level-45\n",
@@ -22849,6 +23314,7 @@
     },
     "Renew": {
         "id": "R45002",
+        "character": "\u66f4",
         "mnemonic": "This radical is the same as the kanji. It means renew.\n",
         "difficulty": "paradise\n",
         "level": "level-45\n",
@@ -22861,6 +23327,7 @@
     },
     "Fat": {
         "id": "R46001",
+        "character": "\u592a",
         "mnemonic": "This radical is the same as the kanji. It means fat.",
         "difficulty": "paradise\n",
         "level": "level-46\n",
@@ -22877,6 +23344,7 @@
     },
     "Favor": {
         "id": "R46002",
+        "character": "\u6075",
         "mnemonic": "This radical is the same as the kanji. It means favor.",
         "difficulty": "paradise\n",
         "level": "level-46\n",
@@ -22889,6 +23357,7 @@
     },
     "Penguin": {
         "id": "R47001",
+        "character": "\u655d",
         "mnemonic": "There are fins wrapped in a towel in winter. Who is drying these fish fins to eat them? A penguin.",
         "difficulty": "paradise\n",
         "level": "level-47\n",
@@ -22905,6 +23374,7 @@
     },
     "Wave": {
         "id": "R47002",
+        "character": "\u6ce2",
         "mnemonic": "This radical is the same as the kanji. It means wave.",
         "difficulty": "paradise\n",
         "level": "level-47\n",
@@ -22917,6 +23387,7 @@
     },
     "Form": {
         "id": "R48001",
+        "character": "\u5bb9",
         "mnemonic": "This radical is the same as the kanji. It means form.",
         "difficulty": "paradise\n",
         "level": "level-48\n",
@@ -22929,6 +23400,7 @@
     },
     "Sunlight": {
         "id": "R48002",
+        "character": "\u5149",
         "mnemonic": "This radical is the same as the kanji. It means sunlight.",
         "difficulty": "paradise\n",
         "level": "level-48\n",
@@ -22941,6 +23413,7 @@
     },
     "Crab Trap": {
         "id": "R49001",
+        "character": "\u751a",
         "mnemonic": "This radical looks like a small animal (\u5339) has a crab (\u5176) sticking out of it. Often when a crab is eating a small animal, that small animal was put inside a crab trap to catch the crab, luring it in with the small animal. That's why this radical is crab trap.",
         "difficulty": "paradise\n",
         "level": "level-49\n",
@@ -22961,6 +23434,7 @@
     },
     "Times": {
         "id": "R49002",
+        "character": "\u56de",
         "mnemonic": "This radical is the same as the kanji. It means times.",
         "difficulty": "paradise\n",
         "level": "level-49\n",
@@ -22977,6 +23451,7 @@
     },
     "Wild": {
         "id": "R49003",
+        "character": "\u8352",
         "mnemonic": "This radical is the same as the kanji. It means wild.",
         "difficulty": "paradise\n",
         "level": "level-49\n",
@@ -22989,6 +23464,7 @@
     },
     "Name": {
         "id": "R50001",
+        "character": "\u540d",
         "mnemonic": "This radical is the same as the kanji. It means name.",
         "difficulty": "paradise\n",
         "level": "level-50\n",
@@ -23001,6 +23477,7 @@
     },
     "Psychopath": {
         "id": "R50002",
+        "character": "https://files.wanikani.com/zttqaf4pmr1hyfn4zm1of5d1ey5l",
         "mnemonic": "Inside this guy's forehead you have a spoon and a bunch of hair, not to mention whatever that is in the top left. That's the mind of a psychopath right there.",
         "difficulty": "paradise\n",
         "level": "level-50\n",
@@ -23013,6 +23490,7 @@
     },
     "Splinter": {
         "id": "R50003",
+        "character": "\u79ba",
         "mnemonic": "Although a little bit modified, there is a turtle shell that's on a mustache with this radical. The only thing with a mustache that hangs around turtles is Splinter, the giant rat from Teenage Mutant Ninja Turtles. So this radical is Splinter (the giant rat).",
         "difficulty": "paradise\n",
         "level": "level-50\n",
@@ -23037,6 +23515,7 @@
     },
     "Stomach": {
         "id": "R51001",
+        "character": "\u80c3",
         "mnemonic": "This radical is the same as the kanji. It means stomach.",
         "difficulty": "reality\n",
         "level": "level-51\n",
@@ -23049,6 +23528,7 @@
     },
     "Frostbite": {
         "id": "R52001",
+        "character": "\u590c",
         "mnemonic": "This radical is made of dirt, legs, and winter. If you have to bury your legs in the dirt in winter, it's probably because you got frostbite. You had to leave your dead legs behind. :(",
         "difficulty": "reality\n",
         "level": "level-52\n",
@@ -23069,6 +23549,7 @@
     },
     "Tall": {
         "id": "R53001",
+        "character": "\u9ad8",
         "mnemonic": "This radical is the same as the kanji. It means tall.",
         "difficulty": "reality\n",
         "level": "level-53\n",
@@ -23081,6 +23562,7 @@
     },
     "Doubt": {
         "id": "R55001",
+        "character": "\u7591",
         "mnemonic": "This radical is the same as the kanji. It means doubt.",
         "difficulty": "reality\n",
         "level": "level-55\n",
@@ -23097,6 +23579,7 @@
     },
     "Feeling": {
         "id": "R55002",
+        "character": "\u611f",
         "mnemonic": "This radical is the same as the kanji. It means feeling.",
         "difficulty": "reality\n",
         "level": "level-55\n",
@@ -23109,6 +23592,7 @@
     },
     "Concave": {
         "id": "R57001",
+        "character": "\u51f9",
         "mnemonic": "It looks like there is a dent in this box. When there is a hole or a dent in something it's called concave.",
         "difficulty": "reality\n",
         "level": "level-57\n",
@@ -23121,6 +23605,7 @@
     },
     "Convex": {
         "id": "R57002",
+        "character": "\u51f8",
         "mnemonic": "This looks like a box with something sticking out of it. When something is sticking out of something else it's convex.",
         "difficulty": "reality\n",
         "level": "level-57\n",
@@ -23133,6 +23618,7 @@
     },
     "Below": {
         "id": "R59001",
+        "character": "\u4e0b",
         "mnemonic": "This radical is the same as the kanji. It means below.",
         "difficulty": "reality\n",
         "level": "level-59\n",

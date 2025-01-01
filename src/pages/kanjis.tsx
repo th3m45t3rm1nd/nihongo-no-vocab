@@ -1,6 +1,6 @@
 import { useState } from "react"
 import kanjiData from '../../data/u-kanjis.json'
-import {KanjiData} from '../types'  
+import {KanjiData} from '../types/typesKanjis'  
 import { Drill } from "./drill";
 
 export default function Kanjis() {

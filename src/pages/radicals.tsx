@@ -1,6 +1,6 @@
 import { useState } from "react"
 import radicalData from '../../data/u-radicals.json'
-import {RadicalData} from '../types'  
+import {RadicalData} from '../types/typesRadicals'  
 import { Drill } from "./drill";
 
 export default function Radicals() {
@@ -12,7 +12,7 @@ export default function Radicals() {
     const handleButtonClick = (level: number) => {
         setSelectedLevel(level);
         const filteredRadicals = Object.entries(rdata)
-            .filter(([_, value]) => value.level === `level-${level}`)
+            .filter(([_, value]) => value.level === `level-${level}\n`)
             .map(([radical, _]) => radical);
         setRadicalArray(filteredRadicals);
         setShowDrill(true);

@@ -1,6 +1,6 @@
 import { useState } from "react"
 import vocabData from '../../data/u-vocabulary.json'
-import {VocabData} from '../types'  
+import {VocabData} from '../types/typesVocabulary'  
 import { Drill } from "./drill";
 
 export default function Vocabs() {
@@ -15,6 +15,7 @@ export default function Vocabs() {
             .filter(([_, value]) => value.level === `level-${level}`)
             .map(([vocab, _]) => vocab);
         setVocabArray(filteredVocab);
+        console.log(vdata)
         setShowDrill(true);
     };
 
