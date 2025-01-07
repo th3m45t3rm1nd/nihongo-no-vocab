@@ -16,7 +16,6 @@ export function Drill({ questions, type, answerData }: DrillProps) {
   const [usedQuestions, setUsedQuestions] = React.useState<string[]>([])
   const [currentQuestion, setCurrentQuestion] = React.useState(() => {
     const firstQuestion = questions[Math.floor(Math.random() * questions.length)]
-    console.log(questions)
     setUsedQuestions([firstQuestion])
     // For RADICAL type, we want to show the character as the question
     return type === "RADICAL" ? answerData[firstQuestion].character : firstQuestion
@@ -30,10 +29,8 @@ export function Drill({ questions, type, answerData }: DrillProps) {
   const navigate = useNavigate()
 
 
-  console.log(currentQuestion)
-  console.log(answerData)
   const correctAnswer = type === "KANJI" 
-    ? wanakana.toHiragana(answerData[currentQuestion].reading.kunyomi.meaning)
+    ? wanakana.toHiragana(answerData[currentQuestion].reading.onyomi.meaning)
     : type === "VOCAB" 
     ? wanakana.toHiragana(answerData[currentQuestion].reading.reading)
     : type === "RADICAL" 

@@ -9,7 +9,7 @@ export default function ExplanationRadical({answerData, currentQuestion} :  Prop
             <h3 className="text-2xl font-serif">Meaning</h3>
             <hr/>
             <p className="mt-1 bg-gray-300 p-4">{currentQuestion}</p>
-            <p className="mt-1 bg-gray-300 p-4">{answerData[currentQuestion].character}</p>
+            <p>{answerData[currentQuestion].id}</p>
         </>
     )
 }
