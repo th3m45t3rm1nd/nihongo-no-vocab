@@ -38,14 +38,19 @@ export function Drill({ questions, type, answerData }: DrillProps) {
     : "";
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    console.log(e.target.value.length)
     type === "RADICAL" 
     ? setAnswer(e.target.value)
-    : setAnswer(wanakana.toHiragana(e.target.value))
+    : setAnswer(e.target.value[e.target.value.length - 1] === 'n' || e.target.value[e.target.value.length - 1] === 'y'
+      ? e.target.value[e.target.value.length - 1] === 'n' && e.target.value[e.target.value.length - 2] === 'n'
+      ? e.target.value.slice(0, e.target.value.length - 2) + wanakana.toHiragana('n') 
+      : e.target.value
+      : wanakana.toHiragana(e.target.value))
   }
   const checkAnswer = () => { 
     if (answer.trim() === '') {
         alert('Please write an answer')
-    } else if (answer === correctAnswer) {
+    } else if (correctAnswer?.includes(answer.trim())) {
         setIsCorrect(true)
         setIsAnswerSubmitted(true)
         setNextQuestion(true)
