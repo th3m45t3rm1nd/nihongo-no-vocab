@@ -1,6 +1,6 @@
 import { useState } from "react"
 import kanjiData from '../../data/u-kanjis.json'
-import {KanjiData} from '../types/typesKanjis'  
+import { KanjiData } from '../types/typesKanjis'
 import { Drill } from "./drill";
 
 export default function Kanjis() {
@@ -21,15 +21,16 @@ export default function Kanjis() {
     return (
         <div>
             {showDrill ? (
-                <Drill questions={kanjiArray} type="KANJI" answerData={kdata}/>
+                <Drill questions={kanjiArray} type="KANJI" answerData={kdata} />
             ) : (
                 <>
-                    <h1 className="text-4xl text-center">Kanji</h1>
+                    <h1 className="text-4xl text-center m-4 font-serif">Kanji</h1>
+                    <hr></hr>
                     <div className="grid grid-cols-10 gap-4 mx-4 justify-center pt-10">
                         {Array.from({ length: 60 }, (_, i) => (
-                            <button 
-                                key={i + 1} 
-                                onClick={() => handleButtonClick(i + 1)} 
+                            <button
+                                key={i + 1}
+                                onClick={() => handleButtonClick(i + 1)}
                                 className="p-2 border rounded hover:bg-blue-500 hover:text-white"
                             >
                                 {i + 1}
